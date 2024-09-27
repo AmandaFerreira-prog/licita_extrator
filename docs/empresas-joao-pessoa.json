@@ -1,0 +1,96 @@
+{
+  "id": "joao-pessoa",
+  "nome": "João Pessoa",
+  "detalhes": {
+    "2014": {
+      "01": [
+        {
+          "objeto": "Contrato de Locação não residencial por tempo determinado",
+          "empresa": "COMÉRCIO DE COMBUSTÍVEIS E LUBRIFICANTES B2 EIRELI",
+          "valor_total": "R$ 375.400,00"
+        }
+      ]
+    },
+    "2015": {
+      "02": [
+        {
+          "objeto": "Fornecimento de materiais de construção",
+          "empresa": "CONSTRUTORA XYZ LTDA",
+          "valor_total": "R$ 200.000,00"
+        }
+      ]
+    },
+    "2016": {
+      "03": [
+        {
+          "objeto": "Prestação de serviços de segurança patrimonial",
+          "empresa": "SEGURANÇA TOTAL LTDA",
+          "valor_total": "R$ 500.000,00"
+        }
+      ]
+    },
+    "2017": {
+      "04": [
+        {
+          "objeto": "Compra de equipamentos de informática",
+          "empresa": "TECH SOLUTIONS SA",
+          "valor_total": "R$ 100.000,00"
+        }
+      ]
+    },
+    "2018": {
+      "05": [
+        {
+          "objeto": "Prestação de serviços de limpeza urbana",
+          "empresa": "LIMPEZA CIDADE LTDA",
+          "valor_total": "R$ 250.000,00"
+        }
+      ]
+    },
+    "2019": {
+      "06": [
+        {
+          "objeto": "Construção de escolas municipais",
+          "empresa": "EDUCAR CONSTRUÇÕES LTDA",
+          "valor_total": "R$ 100.000,00"
+        }
+      ]
+    },
+    "2020": {
+      "07": [
+        {
+          "objeto": "Fornecimento de alimentos para merenda escolar",
+          "empresa": "ALIMENTOS BRASIL LTDA",
+          "valor_total": "R$ 300.000,00"
+        }
+      ]
+    },
+    "2021": {
+      "08": [
+        {
+          "objeto": "Aquisição de material hospitalar",
+          "empresa": "HOSPITALAR SA",
+          "valor_total": "R$ 500.000,00"
+        }
+      ]
+    },
+    "2022": {
+      "09": [
+        {
+          "objeto": "Manutenção de estradas vicinais",
+          "empresa": "ASFALTO TOTAL LTDA",
+          "valor_total": "R$ 220.000,00"
+        }
+      ]
+    },
+    "2023": {
+      "10": [
+        {
+          "objeto": "Construção de unidades de saúde",
+          "empresa": "SAÚDE E CONSTRUÇÕES LTDA",
+          "valor_total": "R$ 320.000,00"
+        }
+      ]
+    }
+  }
+}
