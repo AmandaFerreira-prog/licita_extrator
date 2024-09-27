@@ -35,6 +35,11 @@
                "objeto":"Compra de equipamentos de informática",
                "empresa":"TECH SOLUTIONS SA",
                "valor_total":"R$ 100.000,00"
+            },
+            {
+               "objeto":"Fornecimento de materiais de construção",
+               "empresa":"CONSTRUTORA XYZ LTDA",
+               "valor_total":"R$ 200.000,00"
             }
          ]
       },
