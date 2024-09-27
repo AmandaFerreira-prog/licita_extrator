@@ -1,0 +1,55 @@
+{
+    "contratos": [
+      {
+        "empresa": "COMÉRCIO DE COMBUSTÍVEIS E LUBRIFICANTES B2 EIRELI",
+        "quantidade_contratos": 1,
+        "valor_total": "R$ 1.375.400,00"
+      },
+      {
+        "empresa": "EXCLUSIVE ENTRETENIMENTO MUSICAIS LTDA",
+        "quantidade_contratos": 1,
+        "valor_total": "R$ 25.000,00"
+      },
+      {
+        "empresa": "SOL PRODUÇÃO E ADMINISTRAÇÃO ARTISTICA LTDA",
+        "quantidade_contratos": 1,
+        "valor_total": "R$ 150.000,00"
+      },
+      {
+        "empresa": "RENATA MONTEIRO DE LACERDA EPP",
+        "quantidade_contratos": 1,
+        "valor_total": "R$ 67.200,00"
+      },
+      {
+        "empresa": "D. Silveira Veículos",
+        "quantidade_contratos": 1,
+        "valor_total": "R$ 125.000,00"
+      },
+      {
+        "empresa": "ESPÓLIO DE CLETO PEREIRA DA CRUZ",
+        "quantidade_contratos": 1,
+        "valor_total": "R$ 92.448,00"
+      },
+      {
+        "empresa": "CAVALCANTI AUTO PECAS LTDA",
+        "quantidade_contratos": 1,
+        "valor_total": "R$ 20.232,00"
+      },
+      {
+        "empresa": "CONSULTEC CONSULTORIA EM PROJETOS GESTÃO E GERENCIAMENTO DE OBRAS LTDA",
+        "quantidade_contratos": 1,
+        "valor_total": "R$ 6.000,00"
+      },
+      {
+        "empresa": "LEONARDO MARQUES DA SILVA",
+        "quantidade_contratos": 1,
+        "valor_total": "R$ 56.000,00"
+      },
+      {
+        "empresa": "LACERDA & MEDEIROS ADVOGADOS ASSOCIADOS",
+        "quantidade_contratos": 1,
+        "valor_total": "R$ 22.000,00"
+      }
+    ]
+  }
+  
