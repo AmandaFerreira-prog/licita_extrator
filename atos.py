@@ -7,84 +7,58 @@ def extrair(texto_diario: str):
     matches = re.findall(
         r"^[\s\S]*?Código Identificador:.*$(?:\n|)", texto_diario, re.MULTILINE)
     for match in matches:
-        atos.append(AtoNormativo(match.strip()))
+        atos.append(AtoContratual(match.strip()))
     return atos
 
 
-class AtoNormativo:
-    # Exceções notáveis (nomeações):
-    # String: "Ficam nomeados", município Santa Luzia do Norte, 04/01/2021, ato 8D9E57A4
-    # String: "nomeação do Conselho", município Piranhas, 04/01/2021, ato F12265E5
-    # String: "nomear,", município Coruripe, 15/01/2021, ato EC041157
-    re_nomeacoes = r"(Nomear|NOMEAR|nomear,|nomeação do Conselho|Ficam nomeados|CONVOCA os candidatos aprovados e nomeados|APROVADO e NOMEADO|Art.1º. NOMEAÇÃO|ficam nomeados)( |,|)"
-
-    # Exceções notáveis (exonerações):
-    # String: "Ficam exonerados", município São José da Taoera, 02/01/2023, ato 49D56711
-    # String: "^Exonera", município Inhapi, 27/04/2020, ato 1BFBFDDB
-    re_exoneracoes = r"(Exonerar|EXONERAR|Exonera|Ficam exonerados|RESOLVE EXONERAR)( |,|)"
-
-    # Exceções notáveis:
-    # Possui um CPF inválido, município Maragogi, 10/02/2018, ato 7C2C6663
-    # Possui um CPF inválido, 060-478.934-30, município Maragogi, 02/01/2023, ato 99658F02
-    # String: \*\*\*, município Maragogi, 15/08/2022, ato 2E57C952
-    # String: –, município Pão de Açúcar, 02/01/2023, ato C7917E25
-    # Erro de digitação do padrão cpf: 616.676668 – 00, município Pão de Açúcar, 02/01/2023, ato C7917E25. Solução na regex: (?:.|)
-    # Erro de digitação do padrão cpf: 030-969-544-96, município Jacaré dos Homens, 29/01/2021, ato 31EA193A.
-    re_cpf = r"((?:\*{3}|\d{3}(?:-|))(?:\d{3}|\*{3})(?:\*{3}|(?:-|)\d{3})-\d{2})"
+class AtoContratual:
+    # Padrões para extrair informações de contratos
+    #Todas as regex prontas para valores,partes contratadas e objeto do contrato
+    #regexs criadas a partir de documento teste para 24 diarios diversificados de todos o periodo(2014-2023)
+    re_valor = r"(?is)(?:Valor:\s*|- |VALOR TOTAL:\s*|valor global de\s*|,?\s*Valor Global do presente Contrato é de\s*|VALOR DO CONTRATO:\s*|Remuneração:\s*|VALOR TOTAL ESTIMADO:\s*|valor de (?:R\$)?\s*| VALOR GLOBAL:?\s*)R\$\s*([0-9]{1,3}(?:\.[0-9]{3})*(?:,\d{2})?)(?!.+valor global)"
+    re_partes = r"(?is)(?:(?<!A\s)CONTRATANTE\s|CONTRATAD[oa]:?(?!\,| objeto:)\s?(?:\(A\):)?\s?|[–-] \d{2}\.\d{2}\.\d{2} [–-]|PB – |PARTES:\s.*?(?:\d{4}-\d{2} |\d{3}.\d{3}.\d{3}-\d{2} )e\s|E A(?:S)? EMPRESA(?:S)?:\s|e Pessoa Física:\s|R\$\s\d{1,3}\.\d{1,3}\,\d{1,2}(?:\;\s|\se\s))(.*?)(?:\,?\sCNPJ|\,?\.?\sCPF| - R\$|\.?\sCONTRATADA|- (?!.*?LTDA)|\.?\sFunção|– CONTRATO| –)" #falta pra 16,229que na vdd não necessita pois é nome de pessoas
+    re_objeto = r"(?is)objeto:\s*(.*?)(?:\.?\s*valor|\,?\s*celebrado|\.?\s*fundamento legal|PROCEDIMENTO DE CONTRATAÇÃO DIRETA:)"
+    re_contrato = r"(?i)(EXTRATO D[EO] CONTRATO|TERMO ADITIVO (?:AO|DE) CONTRATO|EXTRATO DE ADITIVO)[\s\S]*?"
 
     def __init__(self, texto: str):
+
         self.texto = texto
+        self.partes_contratadas = []
         self.cod = self._extrai_cod(texto)
-        self.possui_nomeacoes = self._possui_nomeacoes()
-        self.cpf_nomeacoes = []
-        self.cpf_exoneracoes = []
-        self.possui_exoneracoes = self._possui_exoneracoes()
-        if self.possui_exoneracoes or self.possui_nomeacoes:
-            self._extrai_cpf()
+        self.valores = []
+        self.objetos = []
+        self.possui_contratos = self._possui_contratos()
+        if self.possui_contratos:
+            self._extrai_informacoes()
+
+
 
     def _extrai_cod(self, texto: str):
         matches = re.findall(r'Código Identificador:(.*)', texto)
-        return matches[0].strip()
+        return matches[0].strip() if matches else None
 
-    def _possui_nomeacoes(self):
-        return re.search(self.re_nomeacoes, self.texto) is not None
+    def _possui_contratos(self):
+        return re.search(self.re_contrato, self.texto) is not None
 
-    def _possui_exoneracoes(self):
-        return re.search(self.re_exoneracoes, self.texto) is not None
+    def _extrai_informacoes(self):
+        # Extraindo valores
+        valor_matches = re.findall(self.re_valor, self.texto)
+        self.valores = [self.formatar_valor(valor) for valor in valor_matches]
 
-    def _extrai_cpf(self):
-        # Limpeza do texto. Removemos quebras de linha, espaços, pontos e a parte final do texto.
-        novo_texto = re.sub(
-            r"\n|\s|\.|\,|(Registre-se, publique-se e cumpra-se.[\s\S]*)", "", self.texto)
-        
-        # 2023-01-02, ato C7917E25, município Pão de Açúcar usou caracter U+2013 ("En Dash") ao invés de hifen
-        novo_texto = novo_texto.replace("–", "-")
+        # Extraindo partes contratadas
+        parte_matches = re.findall(self.re_partes, self.texto)
+        for match in parte_matches:
+            # match contém os nomes completos
+            self.partes_contratadas.append(match.strip())
 
-        # Dividimos o texto de nomeações e exonerações a partir das regexps. Daí buscamos os CPFs de cada uma das partes.
-        # Essa estratégia é muito importante para resolver os casos de municípios que possuem nomeações e
-        # exonerações no mesmo ato.
-        texto_nomeacoes = ""
-        texto_exoneracoes = ""
-        for texto in re.split(self.re_nomeacoes, novo_texto):
-            if re.search(self.re_exoneracoes, texto) is not None:
-                texto_exoneracoes += texto
-            else:
-                texto_nomeacoes += texto
+        # Extraindo objetos
+        objeto_matches = re.findall(self.re_objeto, self.texto)
+        self.objetos = [match.strip() for match in objeto_matches]
 
-        # Buscando e limpando os CPFs.
-        cpf_nomeacoes = re.findall(self.re_cpf, texto_nomeacoes)
-        cpf_exoneracoes = re.findall(self.re_cpf, texto_exoneracoes)
-
-        # Aplicando a regex para remover hifens extras nos CPFs encontrados
-        regexhifen = r'(\d{3})-?(\d{3})-?(\d{3})-?(\d{2})'
-        substitution = r'\1\2\3-\4'
-        
-        self.cpf_nomeacoes = [re.sub(regexhifen, substitution, cpf) for cpf in cpf_nomeacoes]
-        self.cpf_exoneracoes = [re.sub(regexhifen, substitution, cpf) for cpf in cpf_exoneracoes]
-        for i in range(len(self.cpf_nomeacoes)):
-            self.cpf_nomeacoes[i] = f"{self.cpf_nomeacoes[i][0:3]}.{self.cpf_nomeacoes[i][3:6]}.{self.cpf_nomeacoes[i][6:8]}{self.cpf_nomeacoes[i][8:12]}"
-        for i in range(len(self.cpf_exoneracoes)):
-            self.cpf_exoneracoes[i] = f"{self.cpf_exoneracoes[i][0:3]}.{self.cpf_exoneracoes[i][3:6]}.{self.cpf_exoneracoes[i][6:8]}{self.cpf_exoneracoes[i][8:12]}"
+    def formatar_valor(self, valor: str) -> float:
+        # Remove espaços e formata o valor para float
+        valor = valor.replace('.', '').replace(',', '.')
+        return float(valor)
 
     def __str__(self):
         return json.dumps(self.__dict__, indent=2, ensure_ascii=False)
