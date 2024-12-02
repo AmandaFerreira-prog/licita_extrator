@@ -32,7 +32,7 @@ pip install -r ${DATA_COLLECTION_DIR}/requirements-dev.txt
 
 # Coletando diários e movendo para a pasta diários.
 cd ${DATA_COLLECTION_DIR}
-scrapy crawl pb_associacao_municipios -a start_date=${START_DATE} -a end_date=${END_DATE} > ${OUT_DIR}/scrapy.out 2> ${OUT_DIR}/scrapy.err
+scrapy crawl pb_federacao_municipios -a start_date=${START_DATE} -a end_date=${END_DATE} > ${OUT_DIR}/scrapy.out 2> ${OUT_DIR}/scrapy.err
 for dir in `ls -da ${QD_DOWNLOAD_DIR}/*`
 do
     # Importante pois algumas datas possuem mais de um diário (tem os extras).
