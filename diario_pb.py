@@ -6,7 +6,7 @@ import diario_municipal
 # Exceções Notáveis
 # String: VAMOS, município Poço das Trincheiras, 06/01/2022, ato CCB3A6AB
 re_nomes_municipios = (
-    r"ESTADO DA PARAÍBA(?:| )\n{1,2}PREFEITURA MUNICIPAL DE (.*\n{0,2}(?!VAMOS).*$)\n\s(?:\s|SECRETARIA)")
+    r"ESTADO DA PARAÍBA(?:| )\n{1,2}PREFEITURA MUNICIPAL DE (.*\n{0,2}(?!VAMOS|CNPJ|HOMOLOGAÇÃO).*$)\n\s(?:\s|SECRETARIA)")
 
 
 def extrair_diarios_municipais(texto_diario: str):
