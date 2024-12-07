@@ -4,7 +4,7 @@ import diario_municipal
 
 # No final do regex, existe uma estrutura condicional que verifica se o próximo match é um \s ou SECRETARIA. Isso foi feito para resolver um problema no diário de 2018-10-02, em que o município de Coité do Nóia não foi percebido pelo código. Para resolver isso, utilizamos a próxima palavra (SECRETARIA) para tratar esse caso.
 # Exceções Notáveis
-# String: VAMOS, município Poço das Trincheiras, 06/01/2022, ato CCB3A6AB
+# String: VAMOS, CNPJ, HOMOLOGAÇÃO, PARAÍBA - PARA EVITAR DUPLICATA DE MUNICIPIOS
 re_nomes_municipios = (
     r"ESTADO DA PARAÍBA(?:| )\n{1,2}PREFEITURA MUNICIPAL DE (.*\n{0,2}(?!VAMOS|CNPJ|HOMOLOGAÇÃO|PARAÍBA).*$)\n\s(?:\s|SECRETARIA)")
 
