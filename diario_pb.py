@@ -6,7 +6,7 @@ import diario_municipal
 # Exceções Notáveis
 # String: VAMOS, CNPJ, HOMOLOGAÇÃO, PARAÍBA EDITAL - PARA EVITAR DUPLICATA DE MUNICIPIOS
 re_nomes_municipios = (
-    r"ESTADO DA PARAÍBA(?:| )\n{1,2}(?:PREFEITURA MUNICIPAL DE|MUNICÍPIO DE)\s(.*\n{0,2}(?!VAMOS|CNPJ|HOMOLOGAÇÃO).*$)\n\s(?:\s|SECRETARIA)")
+    r"ESTADO DA PARAÍBA(?:| )\n{1,2}(?:PREFEITURA MUNICIPAL DE|MUNICÍPIO DE) (?!.*\s* – )(\S.*?)(?=\s*(?=\n|$))")
 
 
 def extrair_diarios_municipais(texto_diario: str):
