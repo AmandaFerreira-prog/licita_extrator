@@ -61,4 +61,7 @@ class AtoContratual:
         return float(valor)
 
     def __str__(self):
-        return json.dumps(self.__dict__, indent=2, ensure_ascii=False)
+        # Criar uma cópia do dicionário do objeto sem o campo 'texto'
+        data = {k: v for k, v in self.__dict__.items() if k != "texto"}
+        return json.dumps(data, indent=2, ensure_ascii=False)
+
