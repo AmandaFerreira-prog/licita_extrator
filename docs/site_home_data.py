@@ -9,8 +9,8 @@ os.makedirs("./docs/site/dados", exist_ok=True)
 inicial = {}
 geral = {
     "detalhe": {},
-    "ranking_nomeacoes": {},
-    "ranking_exoneracoes": {}
+    "ranking_contratos": {},
+    "ranking_gastos_totais": {}
 }
 
 for path in glob.glob("./data/diarios/*-atos.json"):
