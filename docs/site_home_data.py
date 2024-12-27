@@ -39,16 +39,16 @@ for path in glob.glob("./data/diarios/*-atos.json"):
                 "num_diarios", 0) + 1
             for ato in diario["atos"]:
                 ato = json.loads(ato)
-                detalhe_ano_resumo["num_nomeacoes"] = detalhe_ano_resumo.get(
-                    "num_nomeacoes", 0) + len(ato["cpf_nomeacoes"])
+                detalhe_ano_resumo["num_contratos"] = detalhe_ano_resumo.get(
+                    "num_contratos", 0) + len(ato["valores"])
 
-                detalhe_ano_resumo["num_exoneracoes"] = detalhe_ano_resumo.get(
-                    "num_exoneracoes", 0) + len(ato["cpf_exoneracoes"])
-                detalhe_ano_mes["num_nomeacoes"] = detalhe_ano_mes.get(
-                    "num_nomeacoes", 0) + len(ato["cpf_nomeacoes"])
+                detalhe_ano_resumo["total_gasto"] = detalhe_ano_resumo.get(
+                    "total_gasto", 0) + sum(ato["valores"])
+                detalhe_ano_mes["num_contratos"] = detalhe_ano_mes.get(
+                    "num_contratos", 0) + len(ato["valores"])
 
-                detalhe_ano_mes["num_exoneracoes"] = detalhe_ano_mes.get(
-                    "num_exoneracoes", 0) + len(ato["cpf_exoneracoes"])
+                detalhe_ano_mes["total_gasto"] = detalhe_ano_mes.get(
+                    "total_gasto", 0) + sum(ato["valores"])
 
             detalhe_ano[mes] = detalhe_ano_mes
             detalhe[ano] = detalhe_ano
@@ -68,23 +68,23 @@ for path in glob.glob("./data/diarios/*-atos.json"):
             detalhe_geral_ano = detalhe_geral.get(ano, {
                 "resumo": {
                     "num_diarios": 0,
-                    "num_nomeacoes": 0,
-                    "num_exoneracoes": 0
+                    "num_contratos": 0,
+                    "total_gasto": 0
                 }
             })
             detalhe_geral_ano_mes = detalhe_geral_ano.get(mes, {
                 "num_diarios": 0,
-                "num_nomeacoes": 0,
-                "num_exoneracoes": 0,
+                "num_contratos": 0,
+                "total_gasto": 0,
             })
 
             detalhe_geral_ano_mes["num_diarios"] += 1
             for ato in diario["atos"]:
                 ato = json.loads(ato)
-                detalhe_geral_ano_mes["num_nomeacoes"] += len(ato["cpf_nomeacoes"])
-                detalhe_geral_ano_mes["num_exoneracoes"] += len(ato["cpf_exoneracoes"])
-                detalhe_geral_ano["resumo"]["num_nomeacoes"] += len(ato["cpf_nomeacoes"])
-                detalhe_geral_ano["resumo"]["num_exoneracoes"] += len(ato["cpf_exoneracoes"])
+                detalhe_geral_ano_mes["num_contratos"] += len(ato["valores"])
+                detalhe_geral_ano_mes["total_gasto"] += sum(ato["valores"])
+                detalhe_geral_ano["resumo"]["num_contratos"] += len(ato["valores"])
+                detalhe_geral_ano["resumo"]["total_gasto"] += sum(ato["valores"])
             
             detalhe_geral_ano["resumo"]["num_diarios"] += 1
                 
@@ -100,22 +100,22 @@ for path in glob.glob("./data/diarios/*-atos.json"):
 # Atualizando seção de resumo
 for id_municipio, dado in inicial.items():
     num_diarios = 0
-    num_exoneracoes = 0
-    num_nomeacoes = 0
+    num_contratos = 0
+    total_gasto = 0
     for ano, detalhe in dado["detalhe"].items():
         resumo = detalhe.get("resumo", {})
         num_diarios += resumo.get("num_diarios", 0)
-        num_exoneracoes += resumo.get("num_exoneracoes", 0)
-        num_nomeacoes += resumo.get("num_nomeacoes", 0)
+        total_gasto += resumo.get("total_gasto", 0)
+        num_contratos += resumo.get("num_contratos", 0)
 
     inicial[id_municipio]["resumo"] = {
         "num_diarios": num_diarios,
-        "num_exoneracoes": num_exoneracoes,
-        "num_nomeacoes": num_nomeacoes,
+        "num_contratos": num_contratos,
+        "total_gasto": total_gasto,
     }
 
 
-# Analisando municípios que mais nomearam e exoneraram
+# Analisando municípios que mais contrataram e gastaram
 def top5(arg):
     df = pd.DataFrame.from_dict(inicial, orient='index')
     df = df[df['id'] != 'geral']
@@ -138,9 +138,9 @@ def top5(arg):
     
     return ranking
 
-inicial['geral']['ranking_nomeacoes'] = top5("num_nomeacoes")
-inicial['geral']['ranking_exoneracoes'] = top5(
-    "num_exoneracoes")
+inicial['geral']['ranking_contratos'] = top5("num_contratos")
+inicial['geral']['ranking_gastos_totais'] = top5(
+    "total_gasto")
 # Salvando dados para renderização da página inicial.
 for id_municipio, dado in inicial.items():
     with open(f"./docs/site/dados/{id_municipio}.json", "w", encoding="utf-8") as json_file:
