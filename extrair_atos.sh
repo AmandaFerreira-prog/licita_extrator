@@ -1,4 +1,4 @@
-#!/bin/bash
+git push#!/bin/bash
 
 set -x  # debug
 set -e  # exit on error
