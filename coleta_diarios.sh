@@ -17,7 +17,7 @@ mkdir -p ${DATA_DIR}
 cd ${DATA_DIR}
 mkdir -p ${DOWNLOAD_DIR}
 mkdir -p ${OUT_DIR}
-
+pandas
 # Checando se o docker está rodando antes de iniciar a coleta.
 docker ps > /dev/null
 

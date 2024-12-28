@@ -118,7 +118,8 @@ for id_municipio, dado in inicial.items():
 # Analisando municípios que mais contrataram e gastaram
 def top5(arg):
     df = pd.DataFrame.from_dict(inicial, orient='index')
-    df = df[df['id'] != 'geral']
+    df = df[df.index != 'geral']
+    df['id'] = df.index
     df = df.sort_values(by=['resumo'], ascending=False,
                         key=lambda x: x.str.get(arg))
     top_4 = df.head(4)
