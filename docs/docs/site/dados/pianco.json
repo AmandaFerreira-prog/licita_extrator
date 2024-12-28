@@ -1,0 +1,70 @@
+{
+  "id": "pianco",
+  "nome": "Piancó",
+  "detalhe": {
+    "2017": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "resumo": {
+        "num_diarios": 27,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "2": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "3": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "4": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "5": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 28,
+    "num_contratos": 0,
+    "total_gasto": 0
+  }
+}

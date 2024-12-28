@@ -1,0 +1,95 @@
+{
+  "id": "taperoa",
+  "nome": "Taperoá",
+  "detalhe": {
+    "2022": {
+      "11": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "resumo": {
+        "num_diarios": 15,
+        "num_contratos": 2,
+        "total_gasto": 54731.5
+      },
+      "12": {
+        "num_diarios": 13,
+        "num_contratos": 2,
+        "total_gasto": 54731.5
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "resumo": {
+        "num_diarios": 126,
+        "num_contratos": 30,
+        "total_gasto": 4337209.89
+      },
+      "2": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "6": {
+        "num_diarios": 14,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "7": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 2,
+        "total_gasto": 60000.0
+      },
+      "10": {
+        "num_diarios": 14,
+        "num_contratos": 17,
+        "total_gasto": 2781683.34
+      },
+      "11": {
+        "num_diarios": 13,
+        "num_contratos": 7,
+        "total_gasto": 1109559.0
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 4,
+        "total_gasto": 385967.55
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 141,
+    "num_contratos": 32,
+    "total_gasto": 4391941.39
+  }
+}

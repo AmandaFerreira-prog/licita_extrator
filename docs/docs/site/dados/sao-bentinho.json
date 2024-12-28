@@ -1,0 +1,28 @@
+{
+  "id": "sao-bentinho",
+  "nome": "São Bentinho",
+  "detalhe": {
+    "2023": {
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "resumo": {
+        "num_diarios": 12,
+        "num_contratos": 4,
+        "total_gasto": 135167.66999999998
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 4,
+        "total_gasto": 135167.66999999998
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 12,
+    "num_contratos": 4,
+    "total_gasto": 135167.66999999998
+  }
+}

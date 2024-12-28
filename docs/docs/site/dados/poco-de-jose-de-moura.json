@@ -1,0 +1,68 @@
+{
+  "id": "poco-de-jose-de-moura",
+  "nome": "Poço de Jose de Moura",
+  "detalhe": {
+    "2023": {
+      "2": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "resumo": {
+        "num_diarios": 29,
+        "num_contratos": 19,
+        "total_gasto": 5813990.890000001
+      },
+      "3": {
+        "num_diarios": 7,
+        "num_contratos": 6,
+        "total_gasto": 2026278.0
+      },
+      "5": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 695000.0
+      },
+      "6": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 284121.25
+      },
+      "7": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "8": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "11": {
+        "num_diarios": 2,
+        "num_contratos": 11,
+        "total_gasto": 2808591.64
+      },
+      "12": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 29,
+    "num_contratos": 19,
+    "total_gasto": 5813990.890000001
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "mato-grosso",
+  "nome": "Mato Grosso",
+  "detalhe": {
+    "2023": {
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 4,
+        "total_gasto": 1880786.0
+      },
+      "resumo": {
+        "num_diarios": 84,
+        "num_contratos": 60,
+        "total_gasto": 6447230.31
+      },
+      "5": {
+        "num_diarios": 15,
+        "num_contratos": 10,
+        "total_gasto": 1278152.7
+      },
+      "6": {
+        "num_diarios": 15,
+        "num_contratos": 11,
+        "total_gasto": 1667771.21
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 107421.28
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 10,
+        "total_gasto": 939251.16
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 4,
+        "total_gasto": 383284.57
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 19615.6
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 1,
+        "total_gasto": 61838.61
+      },
+      "12": {
+        "num_diarios": 13,
+        "num_contratos": 12,
+        "total_gasto": 109109.18
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 84,
+    "num_contratos": 60,
+    "total_gasto": 6447230.31
+  }
+}

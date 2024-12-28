@@ -1,0 +1,23 @@
+{
+  "id": "bonito-de-santa-fe-pb",
+  "nome": "Bonito de Santa Fé-Pb",
+  "detalhe": {
+    "2023": {
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 1,
+    "num_contratos": 0,
+    "total_gasto": 0
+  }
+}

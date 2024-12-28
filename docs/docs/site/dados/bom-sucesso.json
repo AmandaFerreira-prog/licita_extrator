@@ -1,0 +1,100 @@
+{
+  "id": "bom-sucesso",
+  "nome": "Bom Sucesso",
+  "detalhe": {
+    "2022": {
+      "10": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 15600.0
+      },
+      "resumo": {
+        "num_diarios": 26,
+        "num_contratos": 9,
+        "total_gasto": 1403623.81
+      },
+      "11": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 61457.38
+      },
+      "12": {
+        "num_diarios": 14,
+        "num_contratos": 6,
+        "total_gasto": 1326566.4300000002
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 12,
+        "num_contratos": 4,
+        "total_gasto": 2174152.52
+      },
+      "resumo": {
+        "num_diarios": 131,
+        "num_contratos": 135,
+        "total_gasto": 17076726.46
+      },
+      "2": {
+        "num_diarios": 15,
+        "num_contratos": 41,
+        "total_gasto": 5296374.6899999995
+      },
+      "3": {
+        "num_diarios": 16,
+        "num_contratos": 23,
+        "total_gasto": 2216212.79
+      },
+      "4": {
+        "num_diarios": 10,
+        "num_contratos": 17,
+        "total_gasto": 2988227.3600000003
+      },
+      "5": {
+        "num_diarios": 15,
+        "num_contratos": 9,
+        "total_gasto": 1107274.12
+      },
+      "6": {
+        "num_diarios": 7,
+        "num_contratos": 5,
+        "total_gasto": 262650.0
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 6,
+        "total_gasto": 148260.0
+      },
+      "8": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 76633.95
+      },
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 9,
+        "total_gasto": 1085991.3699999999
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 3,
+        "total_gasto": 770015.38
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 3,
+        "total_gasto": 302696.29
+      },
+      "12": {
+        "num_diarios": 14,
+        "num_contratos": 12,
+        "total_gasto": 648237.99
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 157,
+    "num_contratos": 144,
+    "total_gasto": 18480350.27
+  }
+}

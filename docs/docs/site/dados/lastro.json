@@ -1,0 +1,38 @@
+{
+  "id": "lastro",
+  "nome": "Lastro",
+  "detalhe": {
+    "2023": {
+      "9": {
+        "num_diarios": 2,
+        "num_contratos": 6,
+        "total_gasto": 1533835.0
+      },
+      "resumo": {
+        "num_diarios": 17,
+        "num_contratos": 15,
+        "total_gasto": 2748770.21
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 84858.56
+      },
+      "12": {
+        "num_diarios": 9,
+        "num_contratos": 8,
+        "total_gasto": 1130076.65
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 17,
+    "num_contratos": 15,
+    "total_gasto": 2748770.21
+  }
+}

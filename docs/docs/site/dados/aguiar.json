@@ -1,0 +1,53 @@
+{
+  "id": "aguiar",
+  "nome": "Aguiar",
+  "detalhe": {
+    "2023": {
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "resumo": {
+        "num_diarios": 72,
+        "num_contratos": 2,
+        "total_gasto": 15000.0
+      },
+      "7": {
+        "num_diarios": 7,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "8": {
+        "num_diarios": 13,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 15000.0
+      },
+      "10": {
+        "num_diarios": 12,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "12": {
+        "num_diarios": 17,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 72,
+    "num_contratos": 2,
+    "total_gasto": 15000.0
+  }
+}

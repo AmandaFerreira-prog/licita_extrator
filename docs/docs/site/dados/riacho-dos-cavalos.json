@@ -1,0 +1,28 @@
+{
+  "id": "riacho-dos-cavalos",
+  "nome": "Riacho Dos Cavalos",
+  "detalhe": {
+    "2023": {
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 371032.0
+      },
+      "resumo": {
+        "num_diarios": 17,
+        "num_contratos": 15,
+        "total_gasto": 3314140.31
+      },
+      "12": {
+        "num_diarios": 13,
+        "num_contratos": 12,
+        "total_gasto": 2943108.31
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 17,
+    "num_contratos": 15,
+    "total_gasto": 3314140.31
+  }
+}

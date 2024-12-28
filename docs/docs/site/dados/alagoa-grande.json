@@ -1,0 +1,135 @@
+{
+  "id": "alagoa-grande",
+  "nome": "Alagoa Grande",
+  "detalhe": {
+    "2022": {
+      "3": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 257511.38999999998
+      },
+      "resumo": {
+        "num_diarios": 71,
+        "num_contratos": 56,
+        "total_gasto": 12500512.61
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 19,
+        "total_gasto": 2561616.3899999997
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 7,
+        "total_gasto": 619946.02
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 1280959.24
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 6,
+        "total_gasto": 974611.51
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 388525.0
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 6,
+        "total_gasto": 2023050.0
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 76517.25
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 1,
+        "total_gasto": 1502495.81
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 4,
+        "total_gasto": 2815280.0
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 10,
+        "num_contratos": 11,
+        "total_gasto": 2980241.0999999996
+      },
+      "resumo": {
+        "num_diarios": 102,
+        "num_contratos": 85,
+        "total_gasto": 29844504.530000005
+      },
+      "2": {
+        "num_diarios": 8,
+        "num_contratos": 6,
+        "total_gasto": 2793427.7
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 15,
+        "total_gasto": 813873.48
+      },
+      "4": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 5477664.52
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 11,
+        "total_gasto": 10619324.98
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 8,
+        "total_gasto": 1465639.63
+      },
+      "7": {
+        "num_diarios": 4,
+        "num_contratos": 3,
+        "total_gasto": 663507.1
+      },
+      "8": {
+        "num_diarios": 11,
+        "num_contratos": 5,
+        "total_gasto": 492201.16
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 12,
+        "total_gasto": 2032725.32
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 4,
+        "total_gasto": 232133.7
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 3,
+        "total_gasto": 1599277.36
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 3,
+        "total_gasto": 674488.48
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 173,
+    "num_contratos": 141,
+    "total_gasto": 42345017.14
+  }
+}

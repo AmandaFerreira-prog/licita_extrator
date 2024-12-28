@@ -1,0 +1,681 @@
+{
+  "id": "soledade",
+  "nome": "Soledade",
+  "detalhe": {
+    "2014": {
+      "1": {
+        "num_diarios": 11,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "resumo": {
+        "num_diarios": 152,
+        "num_contratos": 88,
+        "total_gasto": 4915482.220000001
+      },
+      "2": {
+        "num_diarios": 16,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 5,
+        "total_gasto": 398509.68
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 5,
+        "total_gasto": 92000.0
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 7,
+        "total_gasto": 616229.78
+      },
+      "6": {
+        "num_diarios": 13,
+        "num_contratos": 42,
+        "total_gasto": 1335204.0
+      },
+      "7": {
+        "num_diarios": 17,
+        "num_contratos": 9,
+        "total_gasto": 1142958.0
+      },
+      "8": {
+        "num_diarios": 16,
+        "num_contratos": 15,
+        "total_gasto": 1218700.7599999998
+      },
+      "9": {
+        "num_diarios": 9,
+        "num_contratos": 3,
+        "total_gasto": 99080.0
+      },
+      "10": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "11": {
+        "num_diarios": 15,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "12": {
+        "num_diarios": 16,
+        "num_contratos": 2,
+        "total_gasto": 12800.0
+      }
+    },
+    "2015": {
+      "1": {
+        "num_diarios": 13,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "resumo": {
+        "num_diarios": 171,
+        "num_contratos": 69,
+        "total_gasto": 8434956.410000002
+      },
+      "2": {
+        "num_diarios": 15,
+        "num_contratos": 16,
+        "total_gasto": 796680.0
+      },
+      "3": {
+        "num_diarios": 17,
+        "num_contratos": 1,
+        "total_gasto": 65000.0
+      },
+      "4": {
+        "num_diarios": 14,
+        "num_contratos": 7,
+        "total_gasto": 1797018.83
+      },
+      "5": {
+        "num_diarios": 15,
+        "num_contratos": 3,
+        "total_gasto": 1718078.9
+      },
+      "6": {
+        "num_diarios": 13,
+        "num_contratos": 12,
+        "total_gasto": 1875724.65
+      },
+      "7": {
+        "num_diarios": 13,
+        "num_contratos": 6,
+        "total_gasto": 222866.61
+      },
+      "8": {
+        "num_diarios": 13,
+        "num_contratos": 7,
+        "total_gasto": 552563.0
+      },
+      "9": {
+        "num_diarios": 18,
+        "num_contratos": 3,
+        "total_gasto": 1170726.0
+      },
+      "10": {
+        "num_diarios": 16,
+        "num_contratos": 5,
+        "total_gasto": 83093.6
+      },
+      "11": {
+        "num_diarios": 9,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "12": {
+        "num_diarios": 15,
+        "num_contratos": 9,
+        "total_gasto": 153204.82
+      }
+    },
+    "2016": {
+      "1": {
+        "num_diarios": 14,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "resumo": {
+        "num_diarios": 167,
+        "num_contratos": 77,
+        "total_gasto": 18776980.09
+      },
+      "2": {
+        "num_diarios": 14,
+        "num_contratos": 5,
+        "total_gasto": 174000.0
+      },
+      "3": {
+        "num_diarios": 20,
+        "num_contratos": 14,
+        "total_gasto": 3157531.2
+      },
+      "4": {
+        "num_diarios": 18,
+        "num_contratos": 21,
+        "total_gasto": 7034446.26
+      },
+      "5": {
+        "num_diarios": 12,
+        "num_contratos": 15,
+        "total_gasto": 5952772.53
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 8,
+        "total_gasto": 665247.5
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "8": {
+        "num_diarios": 15,
+        "num_contratos": 3,
+        "total_gasto": 1194266.08
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 3,
+        "total_gasto": 54134.16
+      },
+      "10": {
+        "num_diarios": 13,
+        "num_contratos": 1,
+        "total_gasto": 34560.0
+      },
+      "11": {
+        "num_diarios": 16,
+        "num_contratos": 4,
+        "total_gasto": 411582.37
+      },
+      "12": {
+        "num_diarios": 17,
+        "num_contratos": 3,
+        "total_gasto": 98439.99
+      }
+    },
+    "2017": {
+      "1": {
+        "num_diarios": 13,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "resumo": {
+        "num_diarios": 187,
+        "num_contratos": 83,
+        "total_gasto": 8496376.98
+      },
+      "2": {
+        "num_diarios": 16,
+        "num_contratos": 3,
+        "total_gasto": 1868755.0
+      },
+      "3": {
+        "num_diarios": 16,
+        "num_contratos": 5,
+        "total_gasto": 249960.0
+      },
+      "4": {
+        "num_diarios": 15,
+        "num_contratos": 13,
+        "total_gasto": 537299.3
+      },
+      "5": {
+        "num_diarios": 19,
+        "num_contratos": 8,
+        "total_gasto": 1154228.04
+      },
+      "6": {
+        "num_diarios": 18,
+        "num_contratos": 17,
+        "total_gasto": 2277228.0
+      },
+      "7": {
+        "num_diarios": 16,
+        "num_contratos": 8,
+        "total_gasto": 830780.19
+      },
+      "8": {
+        "num_diarios": 17,
+        "num_contratos": 11,
+        "total_gasto": 345310.83999999997
+      },
+      "9": {
+        "num_diarios": 17,
+        "num_contratos": 9,
+        "total_gasto": 293495.0
+      },
+      "10": {
+        "num_diarios": 12,
+        "num_contratos": 1,
+        "total_gasto": 72000.0
+      },
+      "11": {
+        "num_diarios": 10,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "12": {
+        "num_diarios": 18,
+        "num_contratos": 8,
+        "total_gasto": 867320.61
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 16,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "resumo": {
+        "num_diarios": 198,
+        "num_contratos": 82,
+        "total_gasto": 14035715.120000001
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 1,
+        "total_gasto": 182000.0
+      },
+      "3": {
+        "num_diarios": 20,
+        "num_contratos": 9,
+        "total_gasto": 1755900.8
+      },
+      "4": {
+        "num_diarios": 19,
+        "num_contratos": 14,
+        "total_gasto": 5876766.699999999
+      },
+      "5": {
+        "num_diarios": 20,
+        "num_contratos": 25,
+        "total_gasto": 950123.5
+      },
+      "6": {
+        "num_diarios": 16,
+        "num_contratos": 7,
+        "total_gasto": 343300.0
+      },
+      "7": {
+        "num_diarios": 16,
+        "num_contratos": 4,
+        "total_gasto": 1223539.51
+      },
+      "8": {
+        "num_diarios": 18,
+        "num_contratos": 3,
+        "total_gasto": 83099.53
+      },
+      "9": {
+        "num_diarios": 15,
+        "num_contratos": 2,
+        "total_gasto": 67660.0
+      },
+      "10": {
+        "num_diarios": 16,
+        "num_contratos": 6,
+        "total_gasto": 62088.4
+      },
+      "11": {
+        "num_diarios": 18,
+        "num_contratos": 9,
+        "total_gasto": 3456236.6799999997
+      },
+      "12": {
+        "num_diarios": 14,
+        "num_contratos": 2,
+        "total_gasto": 35000.0
+      }
+    },
+    "2019": {
+      "1": {
+        "num_diarios": 15,
+        "num_contratos": 1,
+        "total_gasto": 54900.0
+      },
+      "resumo": {
+        "num_diarios": 217,
+        "num_contratos": 100,
+        "total_gasto": 14203748.41
+      },
+      "2": {
+        "num_diarios": 16,
+        "num_contratos": 13,
+        "total_gasto": 2606277.5
+      },
+      "3": {
+        "num_diarios": 18,
+        "num_contratos": 5,
+        "total_gasto": 1628197.25
+      },
+      "4": {
+        "num_diarios": 19,
+        "num_contratos": 4,
+        "total_gasto": 805098.02
+      },
+      "5": {
+        "num_diarios": 19,
+        "num_contratos": 16,
+        "total_gasto": 870798.3
+      },
+      "6": {
+        "num_diarios": 16,
+        "num_contratos": 8,
+        "total_gasto": 4031629.79
+      },
+      "7": {
+        "num_diarios": 22,
+        "num_contratos": 6,
+        "total_gasto": 652443.65
+      },
+      "8": {
+        "num_diarios": 19,
+        "num_contratos": 13,
+        "total_gasto": 895993.47
+      },
+      "9": {
+        "num_diarios": 19,
+        "num_contratos": 10,
+        "total_gasto": 388127.15
+      },
+      "10": {
+        "num_diarios": 18,
+        "num_contratos": 7,
+        "total_gasto": 1827648.9900000002
+      },
+      "11": {
+        "num_diarios": 17,
+        "num_contratos": 1,
+        "total_gasto": 1349.0
+      },
+      "12": {
+        "num_diarios": 19,
+        "num_contratos": 16,
+        "total_gasto": 441285.29000000004
+      }
+    },
+    "2020": {
+      "1": {
+        "num_diarios": 18,
+        "num_contratos": 7,
+        "total_gasto": 3706321.71
+      },
+      "resumo": {
+        "num_diarios": 197,
+        "num_contratos": 131,
+        "total_gasto": 13979820.88
+      },
+      "2": {
+        "num_diarios": 17,
+        "num_contratos": 43,
+        "total_gasto": 6025768.159999999
+      },
+      "3": {
+        "num_diarios": 19,
+        "num_contratos": 24,
+        "total_gasto": 2330515.5
+      },
+      "4": {
+        "num_diarios": 16,
+        "num_contratos": 7,
+        "total_gasto": 288447.4
+      },
+      "5": {
+        "num_diarios": 19,
+        "num_contratos": 13,
+        "total_gasto": 257641.36
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 4,
+        "total_gasto": 267863.5
+      },
+      "7": {
+        "num_diarios": 17,
+        "num_contratos": 6,
+        "total_gasto": 317628.65
+      },
+      "8": {
+        "num_diarios": 18,
+        "num_contratos": 16,
+        "total_gasto": 569421.9
+      },
+      "9": {
+        "num_diarios": 15,
+        "num_contratos": 9,
+        "total_gasto": 165479.2
+      },
+      "10": {
+        "num_diarios": 16,
+        "num_contratos": 1,
+        "total_gasto": 24000.0
+      },
+      "11": {
+        "num_diarios": 15,
+        "num_contratos": 1,
+        "total_gasto": 26733.5
+      },
+      "12": {
+        "num_diarios": 16,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2021": {
+      "1": {
+        "num_diarios": 17,
+        "num_contratos": 10,
+        "total_gasto": 3730447.0
+      },
+      "resumo": {
+        "num_diarios": 227,
+        "num_contratos": 137,
+        "total_gasto": 20506520.729999997
+      },
+      "2": {
+        "num_diarios": 20,
+        "num_contratos": 27,
+        "total_gasto": 7460694.6
+      },
+      "3": {
+        "num_diarios": 22,
+        "num_contratos": 13,
+        "total_gasto": 1051744.55
+      },
+      "4": {
+        "num_diarios": 20,
+        "num_contratos": 23,
+        "total_gasto": 1838026.8
+      },
+      "5": {
+        "num_diarios": 20,
+        "num_contratos": 11,
+        "total_gasto": 574648.0
+      },
+      "6": {
+        "num_diarios": 17,
+        "num_contratos": 13,
+        "total_gasto": 281539.98
+      },
+      "7": {
+        "num_diarios": 21,
+        "num_contratos": 12,
+        "total_gasto": 786703.7300000001
+      },
+      "8": {
+        "num_diarios": 18,
+        "num_contratos": 11,
+        "total_gasto": 239326.7
+      },
+      "9": {
+        "num_diarios": 17,
+        "num_contratos": 3,
+        "total_gasto": 434147.0
+      },
+      "10": {
+        "num_diarios": 18,
+        "num_contratos": 3,
+        "total_gasto": 579707.9099999999
+      },
+      "11": {
+        "num_diarios": 17,
+        "num_contratos": 9,
+        "total_gasto": 2068214.49
+      },
+      "12": {
+        "num_diarios": 20,
+        "num_contratos": 2,
+        "total_gasto": 1461319.97
+      }
+    },
+    "2022": {
+      "1": {
+        "num_diarios": 18,
+        "num_contratos": 19,
+        "total_gasto": 4181599.31
+      },
+      "resumo": {
+        "num_diarios": 210,
+        "num_contratos": 174,
+        "total_gasto": 31301305.120000005
+      },
+      "2": {
+        "num_diarios": 19,
+        "num_contratos": 24,
+        "total_gasto": 5568567.36
+      },
+      "3": {
+        "num_diarios": 19,
+        "num_contratos": 36,
+        "total_gasto": 7561112.129999999
+      },
+      "4": {
+        "num_diarios": 18,
+        "num_contratos": 14,
+        "total_gasto": 1303438.33
+      },
+      "5": {
+        "num_diarios": 20,
+        "num_contratos": 16,
+        "total_gasto": 5268308.95
+      },
+      "6": {
+        "num_diarios": 16,
+        "num_contratos": 20,
+        "total_gasto": 1308498.81
+      },
+      "7": {
+        "num_diarios": 18,
+        "num_contratos": 11,
+        "total_gasto": 2800703.59
+      },
+      "8": {
+        "num_diarios": 19,
+        "num_contratos": 11,
+        "total_gasto": 1583187.3599999999
+      },
+      "9": {
+        "num_diarios": 15,
+        "num_contratos": 9,
+        "total_gasto": 790638.54
+      },
+      "10": {
+        "num_diarios": 12,
+        "num_contratos": 2,
+        "total_gasto": 57484.0
+      },
+      "11": {
+        "num_diarios": 17,
+        "num_contratos": 6,
+        "total_gasto": 405691.9
+      },
+      "12": {
+        "num_diarios": 19,
+        "num_contratos": 6,
+        "total_gasto": 472074.83999999997
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 19,
+        "num_contratos": 51,
+        "total_gasto": 10194781.51
+      },
+      "resumo": {
+        "num_diarios": 209,
+        "num_contratos": 284,
+        "total_gasto": 33628148.61999999
+      },
+      "2": {
+        "num_diarios": 18,
+        "num_contratos": 25,
+        "total_gasto": 5992950.5200000005
+      },
+      "3": {
+        "num_diarios": 20,
+        "num_contratos": 49,
+        "total_gasto": 7028477.799999999
+      },
+      "4": {
+        "num_diarios": 18,
+        "num_contratos": 39,
+        "total_gasto": 2747945.77
+      },
+      "5": {
+        "num_diarios": 20,
+        "num_contratos": 27,
+        "total_gasto": 2548549.29
+      },
+      "6": {
+        "num_diarios": 16,
+        "num_contratos": 21,
+        "total_gasto": 620293.0
+      },
+      "7": {
+        "num_diarios": 17,
+        "num_contratos": 15,
+        "total_gasto": 367853.38
+      },
+      "8": {
+        "num_diarios": 18,
+        "num_contratos": 5,
+        "total_gasto": 774470.11
+      },
+      "9": {
+        "num_diarios": 16,
+        "num_contratos": 9,
+        "total_gasto": 407623.88
+      },
+      "10": {
+        "num_diarios": 17,
+        "num_contratos": 12,
+        "total_gasto": 1326451.79
+      },
+      "11": {
+        "num_diarios": 16,
+        "num_contratos": 20,
+        "total_gasto": 902302.1499999999
+      },
+      "12": {
+        "num_diarios": 14,
+        "num_contratos": 11,
+        "total_gasto": 716449.4199999999
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 1935,
+    "num_contratos": 1225,
+    "total_gasto": 168279054.57999998
+  }
+}

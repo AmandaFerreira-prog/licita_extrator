@@ -1,0 +1,38 @@
+{
+  "id": "santa-helena",
+  "nome": "Santa Helena",
+  "detalhe": {
+    "2023": {
+      "9": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "resumo": {
+        "num_diarios": 10,
+        "num_contratos": 23,
+        "total_gasto": 2373176.6399999997
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 15,
+        "total_gasto": 369873.70999999996
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 239700.0
+      },
+      "12": {
+        "num_diarios": 3,
+        "num_contratos": 7,
+        "total_gasto": 1763602.93
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 10,
+    "num_contratos": 23,
+    "total_gasto": 2373176.6399999997
+  }
+}

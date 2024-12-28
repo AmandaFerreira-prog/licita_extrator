@@ -1,0 +1,19 @@
+{
+  "id": "montadas-comissao",
+  "nome": "Montadas Comissão",
+  "detalhe": {
+    "2023": {
+      "3": {
+        "num_diarios": 1
+      },
+      "resumo": {
+        "num_diarios": 1
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 1,
+    "num_contratos": 0,
+    "total_gasto": 0
+  }
+}

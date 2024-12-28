@@ -1,0 +1,110 @@
+{
+  "id": "sao-sebastiao-de-lagoa",
+  "nome": "São Sebastião de Lagoa",
+  "detalhe": {
+    "2014": {
+      "6": {
+        "num_diarios": 5,
+        "num_contratos": 4,
+        "total_gasto": 618084.0
+      },
+      "resumo": {
+        "num_diarios": 23,
+        "num_contratos": 12,
+        "total_gasto": 1343086.81
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 5,
+        "total_gasto": 616152.81
+      },
+      "8": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 7600.0
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 2,
+        "total_gasto": 101250.0
+      },
+      "11": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "12": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2015": {
+      "1": {
+        "num_diarios": 5,
+        "num_contratos": 3,
+        "total_gasto": 140000.0
+      },
+      "resumo": {
+        "num_diarios": 47,
+        "num_contratos": 58,
+        "total_gasto": 5497886.999999999
+      },
+      "2": {
+        "num_diarios": 4,
+        "num_contratos": 4,
+        "total_gasto": 749162.35
+      },
+      "3": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 621532.16
+      },
+      "4": {
+        "num_diarios": 4,
+        "num_contratos": 15,
+        "total_gasto": 1469107.42
+      },
+      "5": {
+        "num_diarios": 5,
+        "num_contratos": 22,
+        "total_gasto": 515104.5
+      },
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 23400.0
+      },
+      "7": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 721657.08
+      },
+      "8": {
+        "num_diarios": 7,
+        "num_contratos": 5,
+        "total_gasto": 1126387.49
+      },
+      "9": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 21000.0
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 110536.0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 70,
+    "num_contratos": 70,
+    "total_gasto": 6840973.809999999
+  }
+}

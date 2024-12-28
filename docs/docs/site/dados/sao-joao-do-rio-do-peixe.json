@@ -1,0 +1,177 @@
+{
+  "id": "sao-joao-do-rio-do-peixe",
+  "nome": "São João do Rio do Peixe",
+  "detalhe": {
+    "2021": {
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 16,
+        "total_gasto": 7623340.14
+      },
+      "resumo": {
+        "num_diarios": 22,
+        "num_contratos": 148,
+        "total_gasto": 30790574.42
+      },
+      "5": {
+        "num_diarios": 3,
+        "num_contratos": 3,
+        "total_gasto": 1022808.0
+      },
+      "6": {
+        "num_diarios": 2,
+        "num_contratos": 42,
+        "total_gasto": 3288758.43
+      },
+      "7": {
+        "num_diarios": 3,
+        "num_contratos": 3,
+        "total_gasto": 1502449.35
+      },
+      "8": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 80,
+        "total_gasto": 17040780.62
+      },
+      "10": {
+        "num_diarios": 1,
+        "num_contratos": 4,
+        "total_gasto": 312437.88
+      }
+    },
+    "2022": {
+      "2": {
+        "num_diarios": 1,
+        "num_contratos": 15,
+        "total_gasto": 8765241.8
+      },
+      "resumo": {
+        "num_diarios": 25,
+        "num_contratos": 261,
+        "total_gasto": 48965616.52
+      },
+      "3": {
+        "num_diarios": 3,
+        "num_contratos": 7,
+        "total_gasto": 1103464.4
+      },
+      "4": {
+        "num_diarios": 4,
+        "num_contratos": 80,
+        "total_gasto": 9499453.05
+      },
+      "5": {
+        "num_diarios": 4,
+        "num_contratos": 84,
+        "total_gasto": 7172949.69
+      },
+      "7": {
+        "num_diarios": 2,
+        "num_contratos": 21,
+        "total_gasto": 5405036.34
+      },
+      "8": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "9": {
+        "num_diarios": 3,
+        "num_contratos": 14,
+        "total_gasto": 2286710.16
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 3,
+        "total_gasto": 3606081.0
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 24,
+        "total_gasto": 10030614.08
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 13,
+        "total_gasto": 1096066.0
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 25,
+        "total_gasto": 10807212.84
+      },
+      "resumo": {
+        "num_diarios": 35,
+        "num_contratos": 216,
+        "total_gasto": 44576337.7
+      },
+      "2": {
+        "num_diarios": 2,
+        "num_contratos": 14,
+        "total_gasto": 925500.0
+      },
+      "3": {
+        "num_diarios": 4,
+        "num_contratos": 32,
+        "total_gasto": 6515512.859999999
+      },
+      "4": {
+        "num_diarios": 2,
+        "num_contratos": 6,
+        "total_gasto": 674640.0
+      },
+      "5": {
+        "num_diarios": 7,
+        "num_contratos": 43,
+        "total_gasto": 3627497.0
+      },
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 3,
+        "total_gasto": 27519.96
+      },
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "8": {
+        "num_diarios": 2,
+        "num_contratos": 6,
+        "total_gasto": 1984500.0
+      },
+      "9": {
+        "num_diarios": 2,
+        "num_contratos": 18,
+        "total_gasto": 4129449.0
+      },
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 18,
+        "total_gasto": 3189132.44
+      },
+      "11": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 51,
+        "total_gasto": 12695373.6
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 82,
+    "num_contratos": 625,
+    "total_gasto": 124332528.64
+  }
+}

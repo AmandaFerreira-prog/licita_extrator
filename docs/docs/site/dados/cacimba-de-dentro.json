@@ -1,0 +1,115 @@
+{
+  "id": "cacimba-de-dentro",
+  "nome": "Cacimba de Dentro",
+  "detalhe": {
+    "2022": {
+      "7": {
+        "num_diarios": 2,
+        "num_contratos": 8,
+        "total_gasto": 312146.65
+      },
+      "resumo": {
+        "num_diarios": 52,
+        "num_contratos": 65,
+        "total_gasto": 8125967.56
+      },
+      "8": {
+        "num_diarios": 12,
+        "num_contratos": 4,
+        "total_gasto": 617956.51
+      },
+      "9": {
+        "num_diarios": 11,
+        "num_contratos": 26,
+        "total_gasto": 2558088.6399999997
+      },
+      "10": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 306125.0
+      },
+      "11": {
+        "num_diarios": 6,
+        "num_contratos": 7,
+        "total_gasto": 1320991.3599999999
+      },
+      "12": {
+        "num_diarios": 15,
+        "num_contratos": 16,
+        "total_gasto": 3010659.4
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 6,
+        "num_contratos": 2,
+        "total_gasto": 162750.0
+      },
+      "resumo": {
+        "num_diarios": 88,
+        "num_contratos": 94,
+        "total_gasto": 15907832.729999997
+      },
+      "2": {
+        "num_diarios": 6,
+        "num_contratos": 11,
+        "total_gasto": 6159027.32
+      },
+      "3": {
+        "num_diarios": 11,
+        "num_contratos": 12,
+        "total_gasto": 1305307.91
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 9,
+        "total_gasto": 1152565.92
+      },
+      "5": {
+        "num_diarios": 9,
+        "num_contratos": 22,
+        "total_gasto": 1754481.86
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 14,
+        "total_gasto": 1793025.0
+      },
+      "7": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "8": {
+        "num_diarios": 6,
+        "num_contratos": 5,
+        "total_gasto": 110126.75
+      },
+      "9": {
+        "num_diarios": 6,
+        "num_contratos": 4,
+        "total_gasto": 456357.0
+      },
+      "10": {
+        "num_diarios": 8,
+        "num_contratos": 7,
+        "total_gasto": 1219412.11
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 1,
+        "total_gasto": 684528.86
+      },
+      "12": {
+        "num_diarios": 8,
+        "num_contratos": 7,
+        "total_gasto": 1110250.0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 140,
+    "num_contratos": 159,
+    "total_gasto": 24033800.289999995
+  }
+}

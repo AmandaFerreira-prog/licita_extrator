@@ -1,0 +1,45 @@
+{
+  "id": "sao-jose-dos-cordeiros",
+  "nome": "São José Dos Cordeiros",
+  "detalhe": {
+    "2022": {
+      "1": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "resumo": {
+        "num_diarios": 9,
+        "num_contratos": 8,
+        "total_gasto": 4476386.75
+      },
+      "11": {
+        "num_diarios": 2,
+        "num_contratos": 2,
+        "total_gasto": 593620.79
+      },
+      "12": {
+        "num_diarios": 6,
+        "num_contratos": 6,
+        "total_gasto": 3882765.96
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 10,
+    "num_contratos": 8,
+    "total_gasto": 4476386.75
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cabaceiras-prefeitura-municipal-de",
+  "nome": "Cabaceiras Prefeitura Municipal De",
+  "detalhe": {
+    "2023": {
+      "10": {
+        "num_diarios": 1
+      },
+      "resumo": {
+        "num_diarios": 1
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 1,
+    "num_contratos": 0,
+    "total_gasto": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "paulista",
+  "nome": "Paulista",
+  "detalhe": {
+    "2017": {
+      "1": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 1,
+    "num_contratos": 0,
+    "total_gasto": 0
+  }
+}

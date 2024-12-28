@@ -1,0 +1,140 @@
+{
+  "id": "areia-de-baraunas",
+  "nome": "Areia de Baraúnas",
+  "detalhe": {
+    "2022": {
+      "2": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "resumo": {
+        "num_diarios": 29,
+        "num_contratos": 18,
+        "total_gasto": 3377732.0
+      },
+      "3": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "4": {
+        "num_diarios": 5,
+        "num_contratos": 9,
+        "total_gasto": 2843157.0
+      },
+      "5": {
+        "num_diarios": 3,
+        "num_contratos": 2,
+        "total_gasto": 85000.0
+      },
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "7": {
+        "num_diarios": 2,
+        "num_contratos": 7,
+        "total_gasto": 449575.0
+      },
+      "8": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "10": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "12": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2023": {
+      "1": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "resumo": {
+        "num_diarios": 56,
+        "num_contratos": 26,
+        "total_gasto": 5645051.17
+      },
+      "2": {
+        "num_diarios": 7,
+        "num_contratos": 1,
+        "total_gasto": 1794000.0
+      },
+      "3": {
+        "num_diarios": 7,
+        "num_contratos": 3,
+        "total_gasto": 139873.0
+      },
+      "4": {
+        "num_diarios": 6,
+        "num_contratos": 13,
+        "total_gasto": 1181409.95
+      },
+      "5": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 1024249.0
+      },
+      "6": {
+        "num_diarios": 3,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "7": {
+        "num_diarios": 3,
+        "num_contratos": 1,
+        "total_gasto": 444068.14
+      },
+      "8": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "9": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "10": {
+        "num_diarios": 3,
+        "num_contratos": 2,
+        "total_gasto": 436211.08
+      },
+      "11": {
+        "num_diarios": 5,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "12": {
+        "num_diarios": 10,
+        "num_contratos": 5,
+        "total_gasto": 625240.0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 85,
+    "num_contratos": 44,
+    "total_gasto": 9022783.17
+  }
+}

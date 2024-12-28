@@ -1,0 +1,73 @@
+{
+  "id": "santa-cruz",
+  "nome": "Santa Cruz",
+  "detalhe": {
+    "2023": {
+      "2": {
+        "num_diarios": 5,
+        "num_contratos": 21,
+        "total_gasto": 2358914.73
+      },
+      "resumo": {
+        "num_diarios": 89,
+        "num_contratos": 110,
+        "total_gasto": 11289442.329999998
+      },
+      "3": {
+        "num_diarios": 12,
+        "num_contratos": 24,
+        "total_gasto": 1738296.9000000001
+      },
+      "4": {
+        "num_diarios": 7,
+        "num_contratos": 13,
+        "total_gasto": 1012378.71
+      },
+      "5": {
+        "num_diarios": 8,
+        "num_contratos": 4,
+        "total_gasto": 669119.0
+      },
+      "6": {
+        "num_diarios": 8,
+        "num_contratos": 12,
+        "total_gasto": 529046.0
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 1393450.0
+      },
+      "8": {
+        "num_diarios": 9,
+        "num_contratos": 2,
+        "total_gasto": 96850.0
+      },
+      "9": {
+        "num_diarios": 7,
+        "num_contratos": 9,
+        "total_gasto": 636124.76
+      },
+      "10": {
+        "num_diarios": 12,
+        "num_contratos": 10,
+        "total_gasto": 1661717.18
+      },
+      "11": {
+        "num_diarios": 4,
+        "num_contratos": 7,
+        "total_gasto": 914055.05
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 279490.0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 89,
+    "num_contratos": 110,
+    "total_gasto": 11289442.329999998
+  }
+}

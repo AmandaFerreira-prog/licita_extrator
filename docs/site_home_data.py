@@ -13,15 +13,13 @@ geral = {
     "ranking_gastos_totais": {}
 }
 
-for path in glob.glob("./data/diarios/*-atos.json"):
+for path in glob.glob("../data/diarios/*-atos.json"):
     with open(path, encoding="utf-8") as json_file:
         diarios = json.load(json_file)
-
         for diario in diarios:
             diario = json.loads(diario)
             id_municipio = diario["id"]
             nome_municipio = diario["municipio"]
-
             data_quebrada = diario["data_publicacao"].split("-")
             ano = int(data_quebrada[0])
             mes = int(data_quebrada[1])  # para uso futuro
@@ -114,12 +112,10 @@ for id_municipio, dado in inicial.items():
         "total_gasto": total_gasto,
     }
 
-
 # Analisando municípios que mais contrataram e gastaram
 def top5(arg):
     df = pd.DataFrame.from_dict(inicial, orient='index')
-    df = df[df.index != 'geral']
-    df['id'] = df.index
+    df = df[df["id"] != 'geral']
     df = df.sort_values(by=['resumo'], ascending=False,
                         key=lambda x: x.str.get(arg))
     top_4 = df.head(4)
