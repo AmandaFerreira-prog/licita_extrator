@@ -21,7 +21,7 @@ def arredondar_valor(valor):
     return round(valor, 2)
 
 # Para guardar os objetos e empresas para o cálculo do top 3 mensal e top 10 anual
-for path in glob.glob("../data/diarios/*-atos.json"):
+for path in glob.glob("./data/diarios/teste/*-atos.json"):
     with open(path, encoding="utf-8") as json_file:
         diarios = json.load(json_file)
         for diario in diarios:
@@ -126,6 +126,7 @@ def calcular_top10(arg, tipo="objeto"):
         if id_municipio == 'geral': continue
         for ano, detalhe in dado["detalhe"].items():
             for mes, dados_mes in detalhe.items():
+                print(dados_mes)
                 if mes == "resumo": continue
                 for ato in dados_mes["atos"]:
                     if tipo == "objeto":
@@ -185,5 +186,5 @@ inicial['geral']['ranking_gastos_totais'] = top5("total_gasto")
 
 # Salvando dados para renderização da página inicial.
 for id_municipio, dado in inicial.items():
-    with open(f"./docs/site/dados/{id_municipio}.json", "w", encoding="utf-8") as json_file:
+    with open(f"./docs/site/dados/teste/{id_municipio}.json", "w", encoding="utf-8") as json_file:
         json.dump(dado, json_file, indent=2, default=str, ensure_ascii=False)
