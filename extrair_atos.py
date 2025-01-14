@@ -36,5 +36,5 @@ if __name__ == "__main__":
     nome_arquivo = path_resultado.replace(
         "-resumo-extracao.json", f"-atos.json")
     with open(nome_arquivo, "w", encoding="utf8") as out_file:
-        json.dump(res_atos, out_file, indent=2,
+        json.dump(res_atos, out_file, indent=4,
                   default=str, ensure_ascii=False)

@@ -26,7 +26,7 @@ class Municipio:
         return self.id == other.id
 
     def __str__(self):
-        return json.dumps(self.__dict__, indent=2, default=str, ensure_ascii=False)
+        return json.dumps(self.__dict__, indent=4, default=str, ensure_ascii=False)
 
 
 class Diario:
@@ -66,4 +66,4 @@ class Diario:
         return self.id == other.id
 
     def __str__(self):
-        return json.dumps(self.__dict__, indent=2, default=str, ensure_ascii=False)
+        return json.dumps(self.__dict__, indent=4, default=str, ensure_ascii=False)
