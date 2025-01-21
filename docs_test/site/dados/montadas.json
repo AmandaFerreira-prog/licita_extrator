@@ -1,0 +1,92 @@
+{
+  "id": "montadas",
+  "nome": "Montadas",
+  "detalhe": {
+    "2014": {
+      "2": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 3,
+        "num_contratos": 2,
+        "total_gasto": 200899.0
+      },
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "10": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 200899.0,
+        "top_3_empresas": [
+          "RAFAEL MELO DA COSTA",
+          "ZENAIDE & PORTO\nCONSTRUÇÕES LTDA"
+        ],
+        "top_3_objetos": [
+          "FORNECIMENTO DE CARTUCHOS E TONER\nREMANOFATURADOS PARA ATENDIMENTO DAS\nNECESSIDADES DAS SECRETARIAS E DEPARTAMENTOS DA\nP",
+          "REFORMA DA ESCOLA MUNICIPAL DE ENSINO\nFUNDAMENTAL ERASMO DE ARAÚJO SOUSA NA SEDE DO\nMUNICÍPIO NO EXERCÍCIO DE 2014."
+        ]
+      }
+    },
+    "2015": {
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2017": {
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 54000.0,
+        "top_3_empresas": [
+          "THIAGO DOS SANTOS TOME",
+          "JOSE CARLOS\nMARQUES DA SILVA"
+        ],
+        "top_3_objetos": [
+          "CONTRATAÇÃO DE PESSOA FISICA PARA\nPRESTAÇÃO DE SERVIÇOS NO FORNECIMENTO\nPROVISORIO DE AGUA POTAVEL POR MEIO DE CAMINHÃO\nPIPA, ATRAVES DO CONVENIO DO ESTADO DA PARAIBA Nº\n044/2018"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 54000.0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 6,
+    "num_contratos": 4,
+    "total_gasto": 254899.0
+  }
+}

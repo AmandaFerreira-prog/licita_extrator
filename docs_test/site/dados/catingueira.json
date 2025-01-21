@@ -1,0 +1,31 @@
+{
+  "id": "catingueira",
+  "nome": "Catingueira",
+  "detalhe": {
+    "2021": {
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [
+          "ALMED ALDENIO DISTRIBUIDORA DE\n\nMEDICAMENTOS E MATERIAL MÉDICOS HOSPITALAR\n\nLTDA",
+          "CIRÚRGICA MONTEBELLO LTDA",
+          "NN MED"
+        ],
+        "top_3_objetos": [
+          "AQUISIÇÃO PARCELADA DE MEDICAMENTOS\n\nDIVERSOS, DESTINADOS A MANUTENÇÃO DA FARMÁCIA\n\nBÁSICA DO MUNICÍPIO, A CARGO DA SECRETARIA\n\nMUNICIPAL DE SAÚDE DE CATINGUEIRA-PB"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 1,
+    "num_contratos": 0,
+    "total_gasto": 0
+  }
+}

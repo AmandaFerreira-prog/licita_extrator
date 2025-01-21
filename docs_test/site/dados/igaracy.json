@@ -1,0 +1,30 @@
+{
+  "id": "igaracy",
+  "nome": "Igaracy",
+  "detalhe": {
+    "2021": {
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 775276.93,
+        "top_3_empresas": [
+          "GIPAGEL AUTO PECAS LTDA",
+          "JOSE CLAUDIO\n\nBATISTA BEZERRA"
+        ],
+        "top_3_objetos": [
+          "Aquisição de peças de veículos pertencentes as secretarias\n\ndo Município, Fundo Municipal de Saúde e Fundo de Assistência\n\nSocial aos locados ou a disposição do município de Igaracy –PB"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 775276.93
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 1,
+    "num_contratos": 2,
+    "total_gasto": 775276.93
+  }
+}

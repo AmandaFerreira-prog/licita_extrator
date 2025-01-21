@@ -1,0 +1,29 @@
+{
+  "id": "nazarezinho",
+  "nome": "Nazarezinho",
+  "detalhe": {
+    "2019": {
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 30000.0,
+        "top_3_empresas": [
+          "BRASAS DO FORRO COMERCIO\nE LOCAÇÃO DE MATERIAL LTDA"
+        ],
+        "top_3_objetos": [
+          "Contratação direta da banda \"Brasas do Forró\" para\napresentação de show musical, durante as festividades de\nEmancipação Política do Ano 2019, no município de Nazarezinho"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 30000.0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 1,
+    "num_contratos": 1,
+    "total_gasto": 30000.0
+  }
+}

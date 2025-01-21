@@ -1,0 +1,58 @@
+{
+  "id": "uirauna",
+  "nome": "Uirauna",
+  "detalhe": {
+    "2018": {
+      "1": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2019": {
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2021": {
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [
+          "ALZIRO ZARU ROBERTO LIRA ME"
+        ],
+        "top_3_objetos": [
+          "CONTRATAÇÃO DE EMPRESA PARA FORNECIMENTO\n\nPARCELADA DE COMBUSTÍVEIS, ÓLEOS LUBRIFICANTES E\n\nFILTROS DE COMBUSTÍVEL, DESTINADOS A TODAS AS\n\nSECRETARIAS DA PREFEITURA MUNICIPAL DE UIRAÚNA -\n\nPB",
+          "CONTRATAÇÃO DE EMPRESA PARA FORNECIMENTO\n\nPARCELADA DE COMBUSTÍVEIS, ÓLEOS LUBRIFICANTES E\n\nFILTROS DE COMBUSTÍVEL, DESTINADOS AO FUNDO\n\nMUNICIPAL DE SAÚDE DA PREFEITURA MUNICIPAL DE\n\nUIRAÚNA – PB"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 3,
+    "num_contratos": 0,
+    "total_gasto": 0
+  }
+}

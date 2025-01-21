@@ -1,0 +1,49 @@
+{
+  "id": "caapora",
+  "nome": "Caaporã",
+  "detalhe": {
+    "2019": {
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 543367.4,
+        "top_3_empresas": [
+          "FC EMPREENDIMENTOS\nIMOBILIARIOS EIRELI"
+        ],
+        "top_3_objetos": [
+          "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA DE\nENGENHARIA PARA CONTRUÇÃO DE UMA UNIDADE\nBÁSICA DE SAUDE (UBS TIPO I) NA SEDE DO MUNICÍPIO DE\nACORDO COM O CONVÊNIO 10975.0440001/19-001 DO\nMINISTERIO DA SAUDE"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 543367.4
+      }
+    },
+    "2021": {
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 3,
+        "total_gasto": 36792.08,
+        "top_3_empresas": [
+          "DENTEMED\n\nEQUIPAMENTOS ODONTOLOGICOS LTDA",
+          "F\n\nF DAS NEVES SAUDE AMBIENTAL LTDA"
+        ],
+        "top_3_objetos": [
+          "AQUISIÇÃO DE EQUIPAMENTOS PERMANENTES\n\nPARA AS EQUIPES DE SAUDE BUCAL, COM RECURSO\n\nPROVENIENTE DA PORTARIA 3.017 DE 04 DE NOVEMBRO\n\nDE 2020 DO MINISTERIO DA SAUDE",
+          "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nEM CONTROLE INTEGRADO DE VETORES E PRAGAS\n\nURBANAS, PARA PRESTAÇAO DE SERVIÇOS DE\n\nDEDETIZAÇÃO, DESINSETIZAÇAO, DESCUPINAÇÃO,\n\nDESRATIZAÇÃO E LIMPEZA DE CAIXA D'ÁGUA, A SEREM\n\nREALIZADOS NAS ÁREAS INTERNAS E EXTERNAS DOS\n\nPRÉDIOS PERTENCENTES AS SECRETARIAS DE EDUCAÇÃO,\n\nSAÚDE E DESENVOLVIMENTO HUMANO E INCLUSÃO\n\nSOCIAL"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 3,
+        "total_gasto": 36792.08
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 2,
+    "num_contratos": 4,
+    "total_gasto": 580159.48
+  }
+}

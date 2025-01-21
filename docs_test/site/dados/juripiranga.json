@@ -1,0 +1,71 @@
+{
+  "id": "juripiranga",
+  "nome": "Juripiranga",
+  "detalhe": {
+    "2015": {
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2017": {
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2019": {
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 221500.0,
+        "top_3_empresas": [
+          "UNIDAS VEÍCULOS E SERVIÇOS LTDA"
+        ],
+        "top_3_objetos": [
+          "aquisição de 01 (um) veículo tipo do tipo Van (SPRINTER\nVAN 515 CDI TETO ALTO 20+1 – ANO/MODELO 2019/2019),\nmarca Mercedes-Benz, 0Km, para atender as necessidades da\nSecretaria Municipal de Educação de Juripiranga"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 221500.0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 4,
+    "num_contratos": 1,
+    "total_gasto": 221500.0
+  }
+}

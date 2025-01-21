@@ -1,0 +1,51 @@
+{
+  "id": "manaira",
+  "nome": "Manaíra",
+  "detalhe": {
+    "2018": {
+      "1": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [
+          "A EMPRESA AUDECY\nBELARMINO DE OLIVEIRA ME",
+          "MARIA ELENA DE LIMA\nRODRIGUES 22543554491, CNP: 14.406.225/0001-57.",
+          "A EMPRESA JOÃO CARLOS\nBEZERRA DA SILVA 08391630455"
+        ],
+        "top_3_objetos": [
+          "Aquisição Parcelada de Hortifrutis para o\ndesenvolvimento das ações, atividades e programas de todas as\nSecretarias Municipais da Prefeitura de Manaíra – PB, conforme\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+          "Aquisição de Gêneros Alimentícios para o Centro de\nSaúde e para o desenvolvimento das Ações e Atividades das\nSecretarias da Prefeitura do Município de Manaíra – PB, conforme\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº",
+          "Aquisição de Carne Bovina, Frango e Lingüiça para a\nmanutenção, desenvolvimento, funcionamento e execução das ações,\natividades e programas das Secretarias Municipais da Prefeitura de\nManaíra – PB, conforme proposta de preço, tipo menor preço por\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2019": {
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [
+          "A EMPRESA SOM MACIEL\nEVENTOS E PRODUÇÕES LTDA"
+        ],
+        "top_3_objetos": [
+          "Apresentação de Um Show Artístico da Banda Musical\nALICE MACIEL, no dia 18 de dezembro de 2019, em praça pública,\ndurante as festividades de emancipação política do Município de\nManaíra - PB"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 2,
+    "num_contratos": 0,
+    "total_gasto": 0
+  }
+}

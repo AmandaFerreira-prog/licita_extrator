@@ -1,0 +1,110 @@
+{
+  "id": "soledade",
+  "nome": "Soledade",
+  "detalhe": {
+    "2014": {
+      "2": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 4,
+        "num_contratos": 5,
+        "total_gasto": 402902.0
+      },
+      "4": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 5,
+        "total_gasto": 402902.0,
+        "top_3_empresas": [
+          "A. COSTA COMÉRCIO ATACADISTA DE\nPRODUTOS FARMACEUTICOS LTDA",
+          "ALEXSANDRO SANTOS DA SILVA",
+          "RGB REVENDEDORA DE GÁS DO BRASIL\nLTDA"
+        ],
+        "top_3_objetos": [
+          "CONTRATAÇÃO DE EMPRESA PARA\nFORNECIMENTO DE RECARGA DE GÁS (GLP), ÁGUA\nMINERAL E REFRIGERANTE PARA O CENTRO\nADMINISTRATIVO E DIVERSAS SECRETARIAS\nMUNICIPAIS",
+          "AQUISIÇÃO DE MEDICAMENTOS DE USO\nHOSPITALAR (INJETÁVEIS E CLINICOS)",
+          "CONTRATAÇÃO DE EMPRESA PARA O\nFORNECIMENTO OXIGÊNIO MEDICINAL E AR\nCOMPRIMIDO\n\nMODALIDADE DE LICITAÇÃO: Pregão Presencial nº 012/2014\nFUNDAMENTAÇÃO LEGAL: Lei 8.666/93 e suas alterações"
+        ]
+      },
+      "8": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      }
+    },
+    "2015": {
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2017": {
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2019": {
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2021": {
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 8,
+    "num_contratos": 5,
+    "total_gasto": 402902.0
+  }
+}

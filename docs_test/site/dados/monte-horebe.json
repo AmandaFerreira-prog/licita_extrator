@@ -1,0 +1,108 @@
+{
+  "id": "monte-horebe",
+  "nome": "Monte Horebe",
+  "detalhe": {
+    "2014": {
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 3,
+        "total_gasto": 49200.0,
+        "top_3_empresas": [
+          "D & S EMPREENDIMENTOS E\nSERVIÇOS LTDA-ME",
+          "PAULA LAÍS DE OLIVEIRA\nSANTANA",
+          "STHEPSON MAIERY ALVES DE\nLIRA-ME"
+        ],
+        "top_3_objetos": [
+          "Contratação de Profissionais para os serviços de\ncontabilidade, envolvendo estudos técnicos, preparação de orçamentos\npúblicos, avaliações contábeis, financeiras, fiscais tributárias,\nelaboração de balancetes, balanços, prestações de contas e pareceres\ntécnicos contábeis",
+          "Contratação de profissional para prestar serviços a Câmara\nMunicipal de Monte Horebe, na assessoria administrativa com\nacompanhamento de Ações Judiciais em primeiro grau na Comarca de\nBonito de Santa Fé – PB",
+          "Contratação de profissional para prestar serviços na\nassessoria técnica na informação da GFIP, IRRF da Câmara\nMunicipal de Monte Horebe – PB"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 2,
+        "num_contratos": 3,
+        "total_gasto": 49200.0
+      },
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      }
+    },
+    "2015": {
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2017": {
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 39030.0,
+        "top_3_empresas": [
+          "J.M.S CONSULTORIA\nLTDA",
+          "LEONARDO DE LIMA\nCAVALCANTI 08581257496"
+        ],
+        "top_3_objetos": [
+          "PRESTAÇÃO DE SERVIÇOS NA REALIZAÇÃO DE\nELABORAÇÃO DE PLANOS DE AÇÃO, PLANO PLURIANUAL\nE PLANO DECENAL; ELABORAÇÃO DOS DEMONSTRATIVOS\n\n\n\n\n\n\nwww.diariomunicipal.com.br/famup                                                                             10\n\nANALÍTICOS E SINTÉTICOS FÍSICOS FINANCEIROS PARA\nPRESTAÇÕES DE CONTAS NO ÂMBITO DE AVERIGUAÇÃO\nINTERNO, PARA O TCE-TRIBUNAL DE CONTAS ESTADUAL E\nPARA O TCU-TRIBUNAL DE CONTAS DA UNIÃO;\nPRESTAÇÃO DE SERVIÇOS NA ELABORAÇÃO DE\nLOGÍSTICA ADMINISTRATIVA E DE GESTAO, TANTO\nQUANTO DESENVOLVIMENTO E ALIMENTAÇÃO DE\nSOFTWARE PARA ACOMPANHAMENTO DOS PROGRAMAS E\nSERVIÇOS",
+          "SERVIÇO DE INSTALAÇÃO, DESINSTALAÇÃO,\nREALOCAÇÃO E SUPORTE EM APARELHOS DE AR\nCONDICIONADO TIPO SPLIT E TIPO JANELA DE DIVERSAS\nPOTÊNCIAS, PARA ATENDER A DEMANDA DAS DIVERSAS\nSECRETARIAS DO MUNICÍPIO DE MONTE HOREBE-PB"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 39030.0
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 1422025.0,
+        "top_3_empresas": [
+          "ROMEU ANTONIO MORAIS DE\nLACERDA",
+          "MONTE HOREBE COMBUSTIVEIS\nLTDA"
+        ],
+        "top_3_objetos": [
+          "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\nPARA CONFECÇÃO DE PRÓTESES DENTÁRIAS, PARA\nATENDER AS NECESSIDADES DESTE MUNICÍPIO,\nCONFORME DESCRIÇÃO ANEXO, PARA ATENDER AOS\nUSUÁRIOS DO SUS, A CARGO DA SECRETARIA DE SAÚDE",
+          "AQUISIÇÃO DE COMBUSTÍVEIS (ETANOL,\nGASOLINA, ÓLEO DIESEL) GRAXAS E LUBRIFICANTES\nPARA ABASTECIMENTO DA FROTA MUNICIPAL DE MONTE\n\nHOREBE-PB"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 1422025.0
+      }
+    },
+    "2021": {
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 6,
+    "num_contratos": 7,
+    "total_gasto": 1510255.0
+  }
+}

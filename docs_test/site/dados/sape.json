@@ -1,0 +1,152 @@
+{
+  "id": "sape",
+  "nome": "Sapé",
+  "detalhe": {
+    "2014": {
+      "2": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 7,
+        "num_contratos": 2,
+        "total_gasto": 56420.0
+      },
+      "3": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "4": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 56420.0,
+        "top_3_empresas": [
+          "SANDRA REGINA RIBEIRO\nSIMÕES",
+          "FRANCISCO PAULO C.\nSORRENTINO"
+        ],
+        "top_3_objetos": [
+          "SERVIÇOS DE ASSESSORIA E CONSULTORIA\nTÉCNICA ESPECIALIZADA",
+          "AQUISIÇÃO DE FOGOS DE ARTIFÍCIOS"
+        ]
+      },
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "8": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      }
+    },
+    "2015": {
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 70800.0,
+        "top_3_empresas": [
+          "DESTAQUE LOCADORA DE\nVEÍCULOS LTDA"
+        ],
+        "top_3_objetos": [
+          "Aquisição parcelada de materiais de limpeza, de higiene\npessoal, descartáveis e utensílios domésticos diversos",
+          "Locação de um veículo tipo Van"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 70800.0
+      }
+    },
+    "2017": {
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2019": {
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2021": {
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 47160.0,
+        "top_3_empresas": [
+          "GBS COMERCIO ATACADISTA DE PRODUTOS\n\nHOSPITALARES E SERVICOS DE MANUTENCAO LTDA"
+        ],
+        "top_3_objetos": [
+          "Aquisição de material sanitizantes para Manutenção do\n\nHospital Municipal"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 47160.0
+      }
+    },
+    "2022": {
+      "4": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 12,
+    "num_contratos": 4,
+    "total_gasto": 174380.0
+  }
+}

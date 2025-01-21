@@ -1,0 +1,95 @@
+{
+  "id": "olivedos",
+  "nome": "Olivedos",
+  "detalhe": {
+    "2014": {
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 2,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "8": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      }
+    },
+    "2015": {
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2019": {
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2021": {
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 4,
+        "total_gasto": 193500.0,
+        "top_3_empresas": [
+          "ALFREDO\n\nROCHA SOUTO",
+          "GUSTAVO LUZ DA COSTA",
+          "JP MED SERVIÇOS E\n\nCOMERCIO DE MATERIAIS HOSPITALARES LTDA"
+        ],
+        "top_3_objetos": [
+          "Locação de Veículo tipo (CARRO–PIPA) para Transporte\n\nde Água Potável para o Consumo Emergencial da População\n\n(URBANA), atingida pela estiagem, do Município de Olivedos – PB",
+          "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA AQUISIÇÃO DE KIT COMPLETO PARA DETECÇÃO DE\n\nANTIGENO DO SARS–CONV/SWAB, PARA ATENDER AS\n\nDEMADAS CRECENTES DE CASOS NO MUNICIPIO DE\n\nOLIVEDOS–PB, CONFORME TERMO DE REFERENCIA"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 4,
+        "total_gasto": 193500.0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 6,
+    "num_contratos": 4,
+    "total_gasto": 193500.0
+  }
+}

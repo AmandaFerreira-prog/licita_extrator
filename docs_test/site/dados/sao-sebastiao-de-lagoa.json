@@ -1,0 +1,43 @@
+{
+  "id": "sao-sebastiao-de-lagoa",
+  "nome": "São Sebastião de Lagoa",
+  "detalhe": {
+    "2014": {
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 7600.0,
+        "top_3_empresas": [
+          "Daniel Gregorio Junior"
+        ],
+        "top_3_objetos": [
+          "Contratação de profissional capacitado especializados\nem Manutenção do Sistema viário; Paisagismo; Manutenção do\nSistema de drenagem de chorume; Gerenciar os serviços\nmecanizados necessários para manutenção das celulas;\nManutenção da limpeza geral da área; Manutenção dos sistema\nde drenagem superficial, manutenção do sistema de\nmonitoramento do biogás e manutenção das cercas e portões, do\naterro Sanitário de São Sebastião de Lagoa de Roça"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 7600.0
+      }
+    },
+    "2015": {
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 2,
+    "num_contratos": 1,
+    "total_gasto": 7600.0
+  }
+}

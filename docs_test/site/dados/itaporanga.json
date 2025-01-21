@@ -1,0 +1,146 @@
+{
+  "id": "itaporanga",
+  "nome": "Itaporanga",
+  "detalhe": {
+    "2014": {
+      "2": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 6,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "3": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [
+          "AQ CONSTRUTORA LTDA",
+          "COMERCIAL SANT'ANA VEICULOS E\nPEÇAS LTDA",
+          "GRÁFICA MONSENHOR JOSÉ SINFRONIO\nLTDA"
+        ],
+        "top_3_objetos": [
+          "ALTERAÇAO DA CLÁUSULA SEXTA, QUE\nPASSARAM A TER A SEGUINTE REDAÇÃO:\n\nCLÁUSULA PRIMEIRA – DO OBJETO\n\nO presente ADITIVO tem por objeto alterar ação Cláusula Sexta e,\nque trata dos Prazos, do Contrato de Prestação de Serviços nº\n004/2012, da Licitação Modalidade Tomada de Preço Nº 004/2012,\nfirmado em 06 de julho de 2012, fundamentada no Art"
+        ]
+      },
+      "4": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [
+          ": FUNDO MUNICIPAL DE SAÚDE.\nCONTRATADO : MARCUS RONELLE MONTEIRO NUNES\n(LICITAÇÕES E CONTABILIDADE PÚBLICA)."
+        ],
+        "top_3_objetos": [
+          "Contratação de profissional da área contábil/administrativa\nde assessoria técnica para acompanhamento das tarefas da Secretaria\nMunicipal de Saúde"
+        ]
+      },
+      "5": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "10": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      }
+    },
+    "2015": {
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2017": {
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2019": {
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 106218.56,
+        "top_3_empresas": [],
+        "top_3_objetos": [
+          "AQUISIÇÃO DE PEÇAS DE VESTUÁRIOS PARA\nFARDAMENTOS ESCOLARES, DESTINADOS A REDE\nPÚBLICA DE ENSINO DO MUNICÍPIO DE ITAPORANGA-\nPB"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 106218.56
+      }
+    },
+    "2021": {
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [
+          "POSTO DIESEL SAO JOSE LTDA"
+        ],
+        "top_3_objetos": [
+          "Registro de Preços, com validade de\n\n12 (doze) meses, para eventual fornecimento parcelado de\n\ncombustíveis visando atender as necessidades do Município de\n\nItaporanga – PB, conforme especificações constantes no Anexo V\n\ndeste Edital"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 11,
+    "num_contratos": 1,
+    "total_gasto": 106218.56
+  }
+}

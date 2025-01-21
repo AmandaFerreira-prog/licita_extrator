@@ -1,0 +1,29 @@
+{
+  "id": "barra-de-santa-rosa",
+  "nome": "Barra de Santa Rosa",
+  "detalhe": {
+    "2018": {
+      "1": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [
+          "JOILTO GONÇALVES DE BRITO"
+        ],
+        "top_3_objetos": [
+          "PRESTAÇÃO DE\nSERVIÇOS DE ASSESSORIA CONTÁBIL PARA A CÂMARA\nMUNICIPAL DE BARRA DE SANTAS ROSA -"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 1,
+    "num_contratos": 0,
+    "total_gasto": 0
+  }
+}

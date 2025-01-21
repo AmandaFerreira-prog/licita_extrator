@@ -1,0 +1,202 @@
+{
+  "id": "pombal",
+  "nome": "Pombal",
+  "detalhe": {
+    "2014": {
+      "1": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 9,
+        "num_contratos": 22,
+        "total_gasto": 236964.86000000002
+      },
+      "2": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 13635.28,
+        "top_3_empresas": [
+          "KYM QUEIROZ DE LUCENA"
+        ],
+        "top_3_objetos": [
+          "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\nDE SERVIÇOS DE REFORMA EM 02 (DUAS) SALAS DE\nAULA DA CRECHE GENTE INOCENTE, BAIRO DOS\nPEREIROS, POMBAL -PB\n\nRecursos Oriundos do PDDE e Próprios do Município"
+        ]
+      },
+      "3": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "4": {
+        "num_diarios": 1,
+        "num_contratos": 11,
+        "total_gasto": 60964.429999999986,
+        "top_3_empresas": [
+          "ALVES E ALVES ADVOGADOS ASSOCIADOS",
+          "LAVOISIER PEREIRA PAIXÃO",
+          "OLIVIA SOARES DA SILVA"
+        ],
+        "top_3_objetos": [
+          "Termo Aditivo ao Contrato de Locação de Imóvel\nlocalizado à Rua Cel",
+          "CONTRATO DE PESSOA JURÍDICA ESPECIALIZADA\nNA DEFESA DA PREFEITURA MUNICIPAL DE POMBAL,\nJUNTO AO TRIBUNAL DE CONTAS DO ESTADO,\nMINISTÉRIO PÚBLICO, CONTROLADORIA GERAL DA\nUNIÃO, TRIBUNAL DE CONTAS DA UNIÃO, ASSIM COMO\nACOMPANHAR A PARTE QUE ENVOLVE A\nADMINISTRAÇÃO EM GERAL, TAIS COMO:\nRESOLUÇÕES, LEIS MUNICIPAIS ENTRE OUTROS\nRecursos Próprios do Município de Pombal: todas as Secretarias\nMunicipais\nData de Assinatura: 10/03/2014\nVigência: 10 (dez) Meses, contados a partir da data de assinatura do\nContrato",
+          "Termo Aditivo ao Contrato de Locação de Imóvel\nlocalizado à Rua Projetada, nº 15, centro Pombal –PB, para\nfuncionamento do Núcleo de Apoio Psicológico para atender\ncrianças da rede municipal de ensino"
+        ]
+      },
+      "5": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 18409.77,
+        "top_3_empresas": [
+          "CONSTRUTORA BEZERRA LTDA -ME",
+          "AÇÃO E EMPREENDIMENTOS LTDA"
+        ],
+        "top_3_objetos": [
+          "EXECUÇÃO DE OBRA DE PINTURA DA CRECHE\nMUICIPAL EDEN DAS CRINACINHAS, POMBAL -PB",
+          "EXECUÇÃO DE OBRA DE SERVIÇO DE PINTURA\nEM TODA UNIDADE BÁSICA DE SAÚDE DE VARZEA\nCOMPRIDA DOS OLIVEIRA E JANDUHY CARNEIRO,\nPOMBAL PB"
+        ]
+      },
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 6,
+        "total_gasto": 36045.0,
+        "top_3_empresas": [
+          "FRANCISCO FERNANDES DE LACERDA",
+          "DIOGO DA SILVA\nPEREIRA",
+          "GUTEMBERG NÓBREGA\nMONTEIRO"
+        ],
+        "top_3_objetos": [
+          "LOCAÇÃO DEVEÍCULOSPARA ATENDER A\nDEMANDA DE DIVERSAS SECRETARIAS\nDESTEMUNICÍPIO",
+          "CONTRATAÇÃO DE PROFISSIONAIS HABILITADOS\nNAS ÁREAS DE VIOLÃO, DESENHO E PINTURA,\nARTESANATO , ARTES MACIAIS(CAPOEIRA), PARA\nDESENVOLVER TRABALHOS NO CREAS DESTE MUNICIPIO",
+          "LOCAÇÃO DE IMÓVEL VISANDO SERVIR DE APOIO\nAS COMUNIDADES QUILOMBOLAS RUFINO E DANIEL\nDESTE MUNICÍPIO"
+        ]
+      },
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "8": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 107910.38,
+        "top_3_empresas": [
+          "LUIZ LUCEMAR LEITE MUNIZ",
+          "K1 CONSTRUÇÕES, COMÉRCIO SERVIÇOS LTDA"
+        ],
+        "top_3_objetos": [
+          "CONTRATO DE PROFISSIONAL DE\nCONTABILIDADE PARA ATUAR NOS PROCEDIMENTOS\nCONTÁBEIS DA FARMÁCIA POPULAR DO BRASIL"
+        ]
+      },
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      }
+    },
+    "2015": {
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 53970.0,
+        "top_3_empresas": [
+          "ALMEIDA BEZERRA & CIA LTDA"
+        ],
+        "top_3_objetos": [
+          "REGISTRO DE PREÇOS PARA AQUISIÇÃO DE\nÓCULOS DE GRAU PARA DISTRIBUIÇÃO GRATUITA A\nPESSOAS CARENTES DESTE MUNICÍPIO, CONFORME\nDITAMES DA LEI MUNICIPAL Nº 1119/2002"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 53970.0
+      }
+    },
+    "2017": {
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 2700.0,
+        "top_3_empresas": [
+          "CIRURGICA CAMPINENSE LTDA"
+        ],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 2700.0
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 1,
+        "num_contratos": 5,
+        "total_gasto": 1032911.0,
+        "top_3_empresas": [
+          "CARLA REGINA DE ALMEIDA FREIRA",
+          "TOP PEÇAS VIDRO CENTRO AUTOMOTIVOS\nLTDA EPP",
+          "OSEAS MARTINS FERREIRA"
+        ],
+        "top_3_objetos": [
+          "AQUISIÇÃO DE COMBUSTÍVEIS DESTINADOS\nAO ABASTECIMENTO DOS VEÍCULOS A DISPOSIÇÃO DO\nMUNICÍPIO",
+          "PRESTAÇÃO DE SERVIÇOS DE CONFECÇÕES DE\nPRÓTESES DENTÁRIAS TOTAIS E PARCIAIS,\nSUPERIORES E INFERIORES - (PRÓTESE TOTAL\nMANDICULAR / TOTAL MAXILAR / PARCIAL\nMANDICULAR REMOVIVEL E/OU PRÓTESES\nCORONÁRIAS / INTRARRADICULARES FIXAS / ADESIVAS\n(POR ELEMENTO)",
+          "REGISTRO DE PREÇO PARA AQUISIÇÃO DE\nPNEUS E ACESSÓRIOS NOVOS, DESTINADOS AOS\nVEÍCULOS DA FROTA MUNICIPAL, CONFORME ABAIXO\nDESCRITO"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 5,
+        "total_gasto": 1032911.0
+      }
+    },
+    "2019": {
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2021": {
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 14370.0,
+        "top_3_empresas": [
+          "A J P DE SOUZA COMERCIO ATACADISTA",
+          "ANTONIO DE PADUA PEREIRA DOS\n\nSANTOS"
+        ],
+        "top_3_objetos": [
+          "AQUISIÇÃO EQUIPAMENTOS (MÓVEIS E\n\nELETRODOMÉSTICOS)\n\nOBJETIVO DO ADITIVO: ADITIVO DE",
+          "AQUISIÇÃO DE KIT´S ENXOVAIS PARA DOAÇÃO\n\n\n\nCONTRATANTE: PREFEITURA MUNICIPAL DE POMBAL-PB\n\nCONTRATADO: ANTONIO DE PADUA PEREIRA DOS\n\nSANTOS\n\nCNPJ: 18.120.936/0001-11"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 14370.0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 14,
+    "num_contratos": 30,
+    "total_gasto": 1340915.86
+  }
+}

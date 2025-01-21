@@ -1,0 +1,141 @@
+{
+  "id": "boa-vista",
+  "nome": "Boa Vista",
+  "detalhe": {
+    "2014": {
+      "1": {
+        "num_diarios": 1,
+        "num_contratos": 7,
+        "total_gasto": 7645.66,
+        "top_3_empresas": [
+          "ANTÔNIO CARLOS SILVA PEREIRA.\nCLÁUSULA(S) ADITIDA(S):\nCLÁUSULA SEGUNDA",
+          "ANSELMO APOLINÁRIO DE TORRES",
+          "BENEDITO ARAÚJO DE SOUZA"
+        ],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 7,
+        "num_contratos": 7,
+        "total_gasto": 7645.66
+      },
+      "2": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "4": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "5": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "8": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      }
+    },
+    "2015": {
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 8,
+        "total_gasto": 163888.40000000002,
+        "top_3_empresas": [
+          "CRM COMERCIAL LTDA",
+          "DENTALMED COMÉRCIO E\nREPRESENTAÇÕES LTDA",
+          "CIRUFARMA COMERCIAL LTDA"
+        ],
+        "top_3_objetos": [
+          "Fornecer AQUISIÇÃO DE MEDICAMENTOS E\nMATERIAIS DE USO HOSPITALAR, PARA A SECRETARIA\nDE SAÚDE, PARA SEREM APLICADOS NA UNIDADE\nBÁSICA DE SAÚDE DO MUNICÍPIO, no decorrer do exercício de\n2015",
+          "Fornecer EQUIPAMENTOS E MATERIAIS DE USO\nODONTOLÓGICO, PARA A SECRETARIA DE SAÚDE, PARA\nSEREM APLICADOS NOS CONSULTÓRIOS\nODONTOLÓGICOS DO MUNICÍPIO, no decorrer do exercício de\n2015",
+          "Fornecer EQUIPAMENTOS E MATERIAIS DE USO\nODONTOLÓGICO, PARA A SECRETARIA DE SAÚDE, PARA\nSEREM APLICADOS NOS CONSULTÓRIOS\nODONTOLÓGICOS DO MUNICÍPIO,"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 8,
+        "total_gasto": 163888.40000000002
+      }
+    },
+    "2017": {
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [
+          "DJALMA DOS SANTOS"
+        ],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2021": {
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 113400.0,
+        "top_3_empresas": [
+          "MGCN SERVIÇOS MÉDICOS EIRELI"
+        ],
+        "top_3_objetos": [
+          "Contratação de PESSOA JURÍDICA DA ÁREA DA\n\nSAÚDE PARA PRESTAÇÃO DE SERVIÇOS\n\nCOMPLEMENTARES NO ATENDIMENTO A NÍVEL\n\nAMBULATORIAL EM CONSULTAS, ATENDENDO AS\n\nNECESSIDADES DO MUNICÍPIO DE BOA VISTA-PB,\n\nespecialização em Psiquiatria adulto e infantil"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 113400.0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 11,
+    "num_contratos": 16,
+    "total_gasto": 284934.06
+  }
+}

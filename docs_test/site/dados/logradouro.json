@@ -1,0 +1,43 @@
+{
+  "id": "logradouro",
+  "nome": "Logradouro",
+  "detalhe": {
+    "2018": {
+      "1": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 24000.0,
+        "top_3_empresas": [
+          "ADILSON ALVES DA COSTA"
+        ],
+        "top_3_objetos": [
+          "Contratação de um advogado, pelo período de um ano,\nobjetivando a prestação de serviços nas áreas cíveis e penais, junto a\nPrefeitura Municipal de Logradouro"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 24000.0
+      }
+    },
+    "2021": {
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 2,
+    "num_contratos": 1,
+    "total_gasto": 24000.0
+  }
+}

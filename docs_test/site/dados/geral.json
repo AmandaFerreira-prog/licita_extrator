@@ -1,0 +1,183 @@
+{
+  "id": "geral",
+  "detalhe": {
+    "2014": {
+      "resumo": {
+        "num_diarios": 84,
+        "num_contratos": 61,
+        "total_gasto": 2970593.55
+      },
+      "1": {
+        "num_diarios": 2,
+        "num_contratos": 7,
+        "total_gasto": 7645.66
+      },
+      "2": {
+        "num_diarios": 10,
+        "num_contratos": 3,
+        "total_gasto": 130035.28
+      },
+      "3": {
+        "num_diarios": 8,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "4": {
+        "num_diarios": 9,
+        "num_contratos": 13,
+        "total_gasto": 117384.43
+      },
+      "5": {
+        "num_diarios": 10,
+        "num_contratos": 5,
+        "total_gasto": 801505.77
+      },
+      "6": {
+        "num_diarios": 11,
+        "num_contratos": 17,
+        "total_gasto": 612755.41
+      },
+      "7": {
+        "num_diarios": 10,
+        "num_contratos": 3,
+        "total_gasto": 60244.75
+      },
+      "8": {
+        "num_diarios": 10,
+        "num_contratos": 5,
+        "total_gasto": 674664.23
+      },
+      "9": {
+        "num_diarios": 10,
+        "num_contratos": 6,
+        "total_gasto": 365459.02
+      },
+      "10": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 200899.0
+      }
+    },
+    "2015": {
+      "resumo": {
+        "num_diarios": 14,
+        "num_contratos": 10,
+        "total_gasto": 288658.4
+      },
+      "7": {
+        "num_diarios": 14,
+        "num_contratos": 10,
+        "total_gasto": 288658.4
+      }
+    },
+    "2017": {
+      "resumo": {
+        "num_diarios": 14,
+        "num_contratos": 7,
+        "total_gasto": 487019.88
+      },
+      "9": {
+        "num_diarios": 14,
+        "num_contratos": 7,
+        "total_gasto": 487019.88
+      }
+    },
+    "2018": {
+      "resumo": {
+        "num_diarios": 20,
+        "num_contratos": 11,
+        "total_gasto": 2545936.0
+      },
+      "1": {
+        "num_diarios": 20,
+        "num_contratos": 11,
+        "total_gasto": 2545936.0
+      }
+    },
+    "2019": {
+      "resumo": {
+        "num_diarios": 22,
+        "num_contratos": 6,
+        "total_gasto": 1148835.96
+      },
+      "12": {
+        "num_diarios": 22,
+        "num_contratos": 6,
+        "total_gasto": 1148835.96
+      }
+    },
+    "2021": {
+      "resumo": {
+        "num_diarios": 38,
+        "num_contratos": 20,
+        "total_gasto": 4414743.76
+      },
+      "11": {
+        "num_diarios": 38,
+        "num_contratos": 20,
+        "total_gasto": 4414743.76
+      }
+    },
+    "2022": {
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "4": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 193,
+    "num_contratos": 115,
+    "total_gasto": 11855787.55
+  },
+  "ranking_contratos": {
+    "1": {
+      "nome": "Pombal",
+      "num": 30
+    },
+    "2": {
+      "nome": "Boa Vista",
+      "num": 16
+    },
+    "3": {
+      "nome": "Picuí",
+      "num": 10
+    },
+    "4": {
+      "nome": "Conceição",
+      "num": 7
+    },
+    "5": {
+      "nome": "Outros",
+      "num": 52
+    }
+  },
+  "ranking_gastos_totais": {
+    "1": {
+      "nome": "Alhandra",
+      "num": 2655468.0
+    },
+    "2": {
+      "nome": "Monte Horebe",
+      "num": 1510255.0
+    },
+    "3": {
+      "nome": "Pombal",
+      "num": 1340915.86
+    },
+    "4": {
+      "nome": "Matinhas",
+      "num": 973100.25
+    },
+    "5": {
+      "nome": "Outros",
+      "num": 5376048
+    }
+  }
+}

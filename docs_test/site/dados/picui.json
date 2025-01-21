@@ -1,0 +1,184 @@
+{
+  "id": "picui",
+  "nome": "Picuí",
+  "detalhe": {
+    "2014": {
+      "2": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [
+          "MARCOS AURELIO DE OLIVEIRA",
+          "W. M. COMERCIO DE COMBUSTÍVEIS LTDA.",
+          "GRACIMÁRIA DANTAS MORAIS SILVA"
+        ],
+        "top_3_objetos": [
+          "ADITAR",
+          "PRORROGAÇÃO DE PRAZO DE VIGÊNCIA"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 8,
+        "num_contratos": 8,
+        "total_gasto": 464838.18
+      },
+      "3": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "4": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "5": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 50096.0,
+        "top_3_empresas": [
+          "JOSÉ MACEDO DE ARAÚJO ME -\nR$ 7.553,00\nCT Nº 00063/2014 - 19.05.14 - INEL COMERCIO DE MATERIAIS\nELETRICOS LTDA",
+          "ELETRONOR ENGENHARIA E\nCOMERCIO LTDA"
+        ],
+        "top_3_objetos": [
+          "AQUISIÇÃO DE MATERIAL ELÉTRICO, DE FORMA\nPARCELADA, PARA SUPRIR AS NECESSIDADES DO\nMUNICÍPIO DE PICUÍ, CONFORME DISPOSIÇÕES DO TERMO\nDE REFERÊNCIA."
+        ]
+      },
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 3,
+        "total_gasto": 124608.41,
+        "top_3_empresas": [
+          "ALEXANDRE ALVES DE ARAÚJO\nCONDIMENTOS ME",
+          "RICARDO GEORGE BERTO\nGOMES - ME",
+          "UP DISTRIBUIDORA DE\nPRODUTOS DE LIMPEZA LTDA"
+        ],
+        "top_3_objetos": [
+          "AQUISIÇÃO DE MATERIAIS DESCARTÁVEIS, DE\nFORMA PARCELADA, PARA ATENDER AS NECESSIDADES\nDAS SECRETARIAS MUNICIPAIS, CONFORME DISPOSIÇÕES\nDO TERMO DE REFERÊNCIA"
+        ]
+      },
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 56244.75,
+        "top_3_empresas": [
+          "HML COMERCIAL LTDA.",
+          "SPORT’S MAGAZINE LTDA."
+        ],
+        "top_3_objetos": [
+          "AQUISIÇÃO DE MATERIAL ESPORTIVO, DE FORMA\nPARCELADA, PARA ATENDER AS NECESSIDADES DA\nSECRETARIA MUNICIPAL DE EDUCAÇÃO, CULTURA E\nDESPORTO E DA SECRETARIA MUNICIPAL DE PROMOÇÃO\nE ASSISTÊNCIA SOCIAL, CONFORME DISPOSIÇÕES DO\nTERMO DE REFERÊNCIA"
+        ]
+      },
+      "8": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 233889.02,
+        "top_3_empresas": [
+          "MAXIMIANO ANTONIO DOS\nSANTOS NETO EIRELI EPP"
+        ],
+        "top_3_objetos": [
+          "CONTRATAÇÃO DE EMPRESA DA CONSTRUÇÃO\nCIVIL PARA EXECUÇÃO DE OBRA DE CONSTRUÇÃO DE\nCOBERTURA DE QUADRA ESCOLAR (ANEXO À EMEF JOÃO\nBELO ALVES), NO DISTRITO DE SERRA DOS BRANDÕES,\nZONA RURAL, PICUÍ-PB, CONFORME ESPECIFICAÇÕES\nCONSTANTES DO PROJETO BÁSICO"
+        ]
+      }
+    },
+    "2015": {
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2017": {
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 13000.0,
+        "top_3_empresas": [
+          "WA -\nR$ 23.100,00; CT Nº 00027/2018"
+        ],
+        "top_3_objetos": [
+          "SISTEMA DE REGISTRO DE PREÇOS VISANDO\nEVENTUAL CONTRATAÇÃO DE 04(QUATRO) VEÍCULOS\nPARA TRANSPORTE DE PACIENTES DA ZONA RURAL PARA\nATENDIMENTO DE URGÊNCIA E EMERGÊNCIA NO\nHOSPITAL REGIONAL DE PICUÍ, BEM COMO TRANSPORTE\nDE PACIENTES ACAMADOS PARA REALIZAREM\nFISIOTERAPIA E REABILITAÇÃO NO CENTRO MUNICIPAL\nDE ESPECIALIDADES MÉDICAS NOSSA SENHORA DE\nFATIMA, CONFORME DISPOSIÇÕES DO TERMO DE\nREFERÊNCIA"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 13000.0
+      }
+    },
+    "2019": {
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [
+          "JOSIVALDO\nALVES DOS SANTOS.",
+          "MARCOS\nELIAS LIMA AZEVEDO."
+        ],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2021": {
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 150500.0,
+        "top_3_empresas": [
+          "JOÃO MARTINHO DA SILVA",
+          "em R$ 9.166,00 (Nove mil, cento e sessenta e seis\n\nreais). Assinatura: 13 de outubro de 2021. Signatários: OLIVÃNIO\n\nDANTAS REMÍGIO e JOÃO MARTINHO DA SILVA",
+          "NILDO\n\nFREITAS DANTAS"
+        ],
+        "top_3_objetos": [
+          "AQUISIÇÃO DE PROJETOR MULTIMÍDIA\n\nDATASHOW, DE FORMA PARCELADA, PARA ATENDER AS\n\nNECESSIDADES DA ADMINISTRAÇÃO MUNICIPAL,\n\nCONFORME DISPOSIÇÕES DO TERMO DE REFERÊNCIA"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 150500.0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 13,
+    "num_contratos": 10,
+    "total_gasto": 628338.18
+  }
+}

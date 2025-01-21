@@ -1,0 +1,108 @@
+{
+  "id": "cabaceiras",
+  "nome": "Cabaceiras",
+  "detalhe": {
+    "2014": {
+      "3": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [
+          ": Prefeitura Municipal de Cabaceiras."
+        ],
+        "top_3_objetos": [
+          "Contratação de empresa do ramo para aquisição de\ngêneros alimentícios, destinados a merenda das escolas da rede\npública municipal, as demais Secretarias e os Departamentos\nMunicipais, sendo o fornecimento dos produtos de forma parcelada e\nde acordo com a necessidade de cada Secretaria até o dia 31/12/2014,\npara os itens 01 02 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 e\n21 do lote I"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 4,
+        "num_contratos": 0,
+        "total_gasto": 0
+      },
+      "5": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [
+          "H R PNEUS PEÇAS ACESSÓRIOS E SERVIÇOS LTDA",
+          "MARCELO ADRIANO BATISTA DA SILVA",
+          "SEVERINO NICOLAU DE ALMEIDA"
+        ],
+        "top_3_objetos": [
+          "Contratação de empresa do ramo para realizar os serviços\nde mão de obra com substituição de peças, nos veículos da frota\noficial da Prefeitura de Cabaceiras, de acordo com a necessidade até o\ndia 31/12/2014, conforme informações constantes no Edital para todos\nos itens dos 08 (oito) lotes",
+          "Contratação de empresa especializada na prestação de\nserviços de digitação, transmissão e manutenção dos aplicativos de\ninformações do SUS entre eles o: CNES - e-SUS - API - CADSUS -\nSIASUS - SIM - SINASC - SINANET - SINANET ONLINE -\nSINPNCD - SISPRENATAL e SISCAN por um período de 04\n(quatro) meses, conforme informações constantes no Edital para o lote\nI",
+          "Contratação de empresa do ramo para aquisição de\nmotobomba, bombas submersas novas e realizar os serviços de\nmão de obra com substituição de peças em bombas submersa\nusadas, de acordo com a necessidade até o dia 31/12/2014, conforme\ninformações constantes no Edital para todos os itens do lote I e II"
+        ]
+      },
+      "10": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2019": {
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 81000.0,
+        "top_3_empresas": [
+          "ALINE AGUIAR\nROCHA"
+        ],
+        "top_3_objetos": [
+          "CONTRATAÇÃO DE EMPRESA PARA A\nCONFECÇÃO DE PRÓTESES DENTÁRIAS TOTAIS\nMANDÍBULARES E MAXILARES, PRÓTESE PARCIAL\nMANDÍBULAR REMOVÍVEL E PRÓTESE MAXILAR\nREMOVÍVEL, PARA O MUNICIPIO DE CABACEIRAS - PB"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 81000.0
+      }
+    },
+    "2021": {
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 24000.0,
+        "top_3_empresas": [
+          "MACIANA DE\n\nAZEVEDO MAIA"
+        ],
+        "top_3_objetos": [
+          "CONTRATAÇÃO DE SERVIÇOS TÉCNICOS\n\nESPECIALIZADOS PARA ELABORAÇÃO DE PROJETOS DE\n\nEMENDA PARLAMENTARES, PREENCHIMENTO E\n\nACOMPANHAMENTO DE PLANOS DE TRABALHO E\n\nSISTEMAS GOVERNAMENTAIS, CONFORME\n\nESPECIFICAÇÕES DO OBJETO CONSTANTES NO TERMO\n\nDE REFERÊNCIA"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 24000.0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 7,
+    "num_contratos": 2,
+    "total_gasto": 105000.0
+  }
+}

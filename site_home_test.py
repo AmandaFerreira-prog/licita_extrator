@@ -4,13 +4,13 @@ import os
 import pandas as pd
 from collections import Counter
 
-os.makedirs("./docs/site/dados", exist_ok=True)
+os.makedirs("./docs_test/site/dados", exist_ok=True)
 
 # Dicionário que guarda dados para renderização da página inicial.
 inicial = {}
 geral = {
     "detalhe": {},
-    "ranking_contratos": {},
+    "ranking_num_contratos": {},
     "ranking_gastos_totais": {},
     "ranking_objetos": {},
     "ranking_empresas": {}
@@ -21,7 +21,7 @@ def arredondar_valor(valor):
     return round(valor, 2)
 
 # Para guardar os objetos e empresas para o cálculo do top 3 mensal e top 10 anual
-for path in glob.glob("../data/diarios/*-atos.json"):
+for path in glob.glob("./test_data/*-atos.json"):
     with open(path, encoding="utf-8") as json_file:
         diarios = json.load(json_file)
         for diario in diarios:
@@ -127,11 +127,11 @@ def calcular_top10(arg, tipo="objeto"):
         for ano, detalhe in dado["detalhe"].items():
             for mes, dados_mes in detalhe.items():
                 if mes == "resumo": continue
-                for ato in dados_mes["atos"]:
-                    if tipo == "objeto":
-                        todos.extend(ato["objetos"])
-                    elif tipo == "empresa":
-                        todos.extend(ato["partes_contratadas"])
+                if dados_mes["num_contratos"]!=0:
+                    for empresa in dados_mes["top_3_empresas"]:
+                        todos.extend(empresa)
+                    for objeto in dados_mes["top_3_objetos"]:
+                        todos.extend(objeto)
 
     top10 = dict(Counter(todos).most_common(10))
     return top10
@@ -185,5 +185,5 @@ inicial['geral']['ranking_gastos_totais'] = top5("total_gasto")
 
 # Salvando dados para renderização da página inicial.
 for id_municipio, dado in inicial.items():
-    with open(f"./docs/site/dados/{id_municipio}.json", "w", encoding="utf-8") as json_file:
+    with open(f"./docs_test/site/dados/{id_municipio}.json", "w", encoding="utf-8") as json_file:
         json.dump(dado, json_file, indent=2, default=str, ensure_ascii=False)

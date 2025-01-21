@@ -1,0 +1,68 @@
+{
+  "id": "sao-mamede",
+  "nome": "São Mamede",
+  "detalhe": {
+    "2014": {
+      "2": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 90000.0,
+        "top_3_empresas": [
+          "A EMPRESA: SOTERO\nCONTABILIDADE PÚBLICA LTDA"
+        ],
+        "top_3_objetos": [
+          "Contratação Direta de Empresa de\n\nContabilidade Pública para Prestação de Serviços Técnicos\nEspecializados em Assessoria e Consultoria Contábil para todos os\nórgãos da administração direta e indireta da Prefeitura de São\nMamede - PB, através da empresa SOTERO CONTABILIDADE\nPÚBLICA LTDA – ME , CNPJ: 19.406.302/0001-92; Fundamento\nLEGAL : Arts"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 2,
+        "num_contratos": 1,
+        "total_gasto": 90000.0
+      },
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [
+          "CONSERV"
+        ],
+        "top_3_objetos": [
+          "Perfuração e instalação de 10 (dez) poços tubulares /Convênio nº\n0228/2009/FUNASA/MS/PMSM – PB,"
+        ]
+      }
+    },
+    "2019": {
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2021": {
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 4,
+    "num_contratos": 1,
+    "total_gasto": 90000.0
+  }
+}

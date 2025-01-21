@@ -1,0 +1,43 @@
+{
+  "id": "alhandra",
+  "nome": "Alhandra",
+  "detalhe": {
+    "2018": {
+      "1": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2021": {
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 2655468.0,
+        "top_3_empresas": [
+          "LE CARD\n\nADMINISTRADORA DE CARTOES LTDA"
+        ],
+        "top_3_objetos": [
+          "Contratação de empresa especializada na administração,\n\ngerenciamento, emissão, distribuição e fornecimento de cartões\n\nmagnéticos equipados com chip eletrônico de segurança, com\n\nrecargas mensais, de benefício de auxilio social do Programa \"MAIS\n\nRENDA\" LEI MUNICIPAL Nº 576, DE 14/09/2017, destinado a\n\npessoas ou famílias que se encontram em situação de vulnerabilidade\n\nsocial"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 2655468.0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 2,
+    "num_contratos": 1,
+    "total_gasto": 2655468.0
+  }
+}

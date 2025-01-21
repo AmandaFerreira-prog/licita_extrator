@@ -1,0 +1,141 @@
+{
+  "id": "conceicao",
+  "nome": "Conceição",
+  "detalhe": {
+    "2014": {
+      "2": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 333882.5
+      },
+      "3": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "4": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "5": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "7": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "8": {
+        "num_diarios": 1,
+        "num_contratos": 1,
+        "total_gasto": 209912.5,
+        "top_3_empresas": [
+          "E.O.S. CONSTRUÇÕES E SERVIÇOS EIRELI",
+          "DEL ENGENHARIA"
+        ],
+        "top_3_objetos": [
+          "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO\nRAMO DA CONSTRUÇÃO CIVIL, PARA A CONSTRUÇÃO DE\nUMA ACADEMIA DE SAÚDE, MODALIDADE..",
+          "CONTRATAÇÃO DE EMPRESA ESPECIALIZA EM\nCONSTRUÇÃO CIVIL, VISANDO A AMPLIAÇÃO DAS\nUNIDADES DE SAÚDE DA FAMÍLIA, LOCALIZADAS, 01 NO\nBAIRRO NOSSA SENHORA DE FÁTIMA, 01 NO POVOADO\nDA MATA GRANDE, 01 POVOADO DA CABAÇA DOS\nMARTINS (SITIO SACO), TODAS DO MUNICÍPIO DE\nCONCEIÇÃO – PB",
+          "CONTRATAÇÃO DE EMPRESA ESPECIALIZA EM\nCONSTRUÇÃO CIVIL PARA A CONSTRUÇÃO DA PRAÇA\nDA ALIMENTAÇÃO, LOCALIZADA NA PRAÇA CÔNEGO\nANTÔNIO ANDRADA, NO MUNICÍPIO DE CONCEIÇÃO –\nPB"
+        ]
+      },
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 4,
+        "total_gasto": 123970.0,
+        "top_3_empresas": [
+          "EQUIPAÇO MOVEIS E\nELETRODOMESTICOS LTDA",
+          "ALDO FABRIZIO DUTRA\nDANTAS - EPP",
+          "ALDO FABRIZIO DUTRA\nDANTAS"
+        ],
+        "top_3_objetos": [
+          "AQUISIÇÃO DE MATERIAL PERMANENTE, TIPO\nMOBILIÁRIO E DE ESCRITÓRIO, PARA EQUIPAR AS\nUNIDADES BÁSICAS DE SAÚDE DA FAMÍLIA DO MUNICÍPIO\nDE CONCEIÇÃO – PB",
+          "AQUISIÇÃO DE MATERIAL PERMANENTE, TIPO\nAR-CONDICONADO, PARA EQUIPAR AS UNIDADES BÁSICAS\nDE SAÚDE DO MUNICÍPIO DE CONCEIÇÃO - PB",
+          "AQUISIÇÃO DE MATERIAL PERMANENTE DO TIPO,\nEQUIPAMENTOS ELÉTRICOS E ELETRÔNICOS, PARA\nEQUIPAR AS UNIDADES BÁSICAS DE SÁUDE DO MUNICÍPIO\nDE CONCEIÇÃO – PB"
+        ]
+      }
+    },
+    "2017": {
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 209189.63,
+        "top_3_empresas": [
+          "WILLAMS MEDEIROS JUNIOR",
+          "CIRURGICA MONTEBELLO LTDA"
+        ],
+        "top_3_objetos": [
+          "Aquisição de uniforme escolar para os alunos da rede de\nensino municipal, para o município de Conceição/PB, conforme\nTermo de Compromisso PAR Nº 201402704",
+          "Aquisição de medicamentos psicotrópicos para atender as\nnecessidades da Secretaria de Saúde do Município de Conceição - PB"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 209189.63
+      }
+    },
+    "2019": {
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2021": {
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": [
+          "Contratação de veículos com motoristas, para prestação de\n\nserviços no transporte escolar dos alunos da rede pública de ensino do\n\nmunicípio de Conceição/PB",
+          "Aquisição de material de insumo (material hospitalar) para\n\natender as necessidades da Secretaria de Saúde e seus órgãos visando\n\no enfrentamento da pandemia do Covid - 19 no município de\n\nConceição-PB",
+          "contratação de empresa para manutenção, instalação,\n\nconserto e reposição de peças de ar-condicionado para as diversas\n\nsecretarias do município de Conceição – PB"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 11,
+    "num_contratos": 7,
+    "total_gasto": 543072.13
+  }
+}

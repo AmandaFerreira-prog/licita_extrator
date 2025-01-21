@@ -1,0 +1,29 @@
+{
+  "id": "vieiropolis",
+  "nome": "Vieirópolis",
+  "detalhe": {
+    "2021": {
+      "11": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 74424.0,
+        "top_3_empresas": [
+          "SUA CASA MATERIAIS DE CONSTRUCAO\n\nLTDA ME"
+        ],
+        "top_3_objetos": [
+          "CONTRATAÇÃO DIRETA PARA AQUISIÇÃO DE\n\nTELHAS DESTINADOS A CONSTRUÇÃO DO PAÇO\n\nMUNICIPAL DE VIEIRÓPOLIS DO"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 74424.0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 1,
+    "num_contratos": 2,
+    "total_gasto": 74424.0
+  }
+}

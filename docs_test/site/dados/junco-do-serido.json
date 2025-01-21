@@ -1,0 +1,81 @@
+{
+  "id": "junco-do-serido",
+  "nome": "Junco do Seridó",
+  "detalhe": {
+    "2014": {
+      "3": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 4,
+        "num_contratos": 2,
+        "total_gasto": 356841.35
+      },
+      "8": {
+        "num_diarios": 1,
+        "num_contratos": 2,
+        "total_gasto": 356841.35,
+        "top_3_empresas": [
+          "",
+          "CONTRATANTE\nA. COSTA COMÉRCIO ATACADISTA DE PRODUTOS\nFARMACÊUTICOS LTDA",
+          "CONTRATANTE\nLG PRODUTOS HOSPITALARES LTDA"
+        ],
+        "top_3_objetos": [
+          "Aquisição de Medicamentos para atender as necessidades da Rede\nPública de Saúde do Município de Junco do Seridó-PB",
+          "Aquisição de Material Médico-Hospitalar para atender as\nnecessidades da Rede Pública de Saúde do Município de Junco do\nSeridó-PB"
+        ]
+      },
+      "9": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "10": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      }
+    },
+    "2018": {
+      "1": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    },
+    "2019": {
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 6,
+    "num_contratos": 2,
+    "total_gasto": 356841.35
+  }
+}
