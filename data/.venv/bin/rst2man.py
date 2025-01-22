@@ -1,4 +1,4 @@
-#!/workspaces/extrator_licita/data/.venv/bin/python3
+#!/workspace/extrator_licita/data/.venv/bin/python3
 
 # Author:
 # Contact: grubert@users.sf.net

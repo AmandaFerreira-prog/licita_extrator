@@ -1,4 +1,4 @@
-#!/workspaces/extrator_licita/data/.venv/bin/python3
+#!/workspace/extrator_licita/data/.venv/bin/python3
 
 # $Id: rst2pseudoxml.py 4564 2006-05-21 20:44:42Z wiemann $
 # Author: David Goodger <goodger@python.org>

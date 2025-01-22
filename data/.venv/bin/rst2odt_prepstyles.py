@@ -1,4 +1,4 @@
-#!/workspaces/extrator_licita/data/.venv/bin/python3
+#!/workspace/extrator_licita/data/.venv/bin/python3
 
 # $Id: rst2odt_prepstyles.py 8346 2019-08-26 12:11:32Z milde $
 # Author: Dave Kuhlman <dkuhlman@rexx.com>

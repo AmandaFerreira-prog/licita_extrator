@@ -4,7 +4,7 @@ set -x  # debug
 set -e  # exit on error
 
 START_DATE=${START_DATE:="2014-01-01"}
-END_DATE=${END_DATE:="2023-12-31"}
+END_DATE=${END_DATE:="2024-12-31"}
 ROOT_DIR=${PWD}
 DATA_DIR=${ROOT_DIR}/data
 OUT_DIR=${DATA_DIR}/out
@@ -17,7 +17,7 @@ mkdir -p ${DATA_DIR}
 cd ${DATA_DIR}
 mkdir -p ${DOWNLOAD_DIR}
 mkdir -p ${OUT_DIR}
-pandas
+
 # Checando se o docker está rodando antes de iniciar a coleta.
 docker ps > /dev/null
 

@@ -1,4 +1,4 @@
-#!/workspaces/extrator_licita/data/.venv/bin/python3
+#!/workspace/extrator_licita/data/.venv/bin/python3
 
 # $Id: rst2latex.py 5905 2009-04-16 12:04:49Z milde $
 # Author: David Goodger <goodger@python.org>
