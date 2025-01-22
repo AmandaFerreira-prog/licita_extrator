@@ -38,6 +38,12 @@
   "resumo": {
     "num_diarios": 2,
     "num_contratos": 1,
-    "total_gasto": 7600.0
+    "total_gasto": 7600.0,
+    "top_5_empresas": {
+      "Daniel Gregorio Junior": 1
+    },
+    "top_5_objetos": {
+      "Contratação de profissional capacitado especializados\nem Manutenção do Sistema viário; Paisagismo; Manutenção do\nSistema de drenagem de chorume; Gerenciar os serviços\nmecanizados necessários para manutenção das celulas;\nManutenção da limpeza geral da área; Manutenção dos sistema\nde drenagem superficial, manutenção do sistema de\nmonitoramento do biogás e manutenção das cercas e portões, do\naterro Sanitário de São Sebastião de Lagoa de Roça": 1
+    }
   }
 }

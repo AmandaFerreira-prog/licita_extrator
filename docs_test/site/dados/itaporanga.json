@@ -141,6 +141,19 @@
   "resumo": {
     "num_diarios": 11,
     "num_contratos": 1,
-    "total_gasto": 106218.56
+    "total_gasto": 106218.56,
+    "top_5_empresas": {
+      "AQ CONSTRUTORA LTDA": 1,
+      "COMERCIAL SANT'ANA VEICULOS E\nPEÇAS LTDA": 1,
+      "GRÁFICA MONSENHOR JOSÉ SINFRONIO\nLTDA": 1,
+      ": FUNDO MUNICIPAL DE SAÚDE.\nCONTRATADO : MARCUS RONELLE MONTEIRO NUNES\n(LICITAÇÕES E CONTABILIDADE PÚBLICA).": 1,
+      "POSTO DIESEL SAO JOSE LTDA": 1
+    },
+    "top_5_objetos": {
+      "ALTERAÇAO DA CLÁUSULA SEXTA, QUE\nPASSARAM A TER A SEGUINTE REDAÇÃO:\n\nCLÁUSULA PRIMEIRA – DO OBJETO\n\nO presente ADITIVO tem por objeto alterar ação Cláusula Sexta e,\nque trata dos Prazos, do Contrato de Prestação de Serviços nº\n004/2012, da Licitação Modalidade Tomada de Preço Nº 004/2012,\nfirmado em 06 de julho de 2012, fundamentada no Art": 1,
+      "Contratação de profissional da área contábil/administrativa\nde assessoria técnica para acompanhamento das tarefas da Secretaria\nMunicipal de Saúde": 1,
+      "AQUISIÇÃO DE PEÇAS DE VESTUÁRIOS PARA\nFARDAMENTOS ESCOLARES, DESTINADOS A REDE\nPÚBLICA DE ENSINO DO MUNICÍPIO DE ITAPORANGA-\nPB": 1,
+      "Registro de Preços, com validade de\n\n12 (doze) meses, para eventual fornecimento parcelado de\n\ncombustíveis visando atender as necessidades do Município de\n\nItaporanga – PB, conforme especificações constantes no Anexo V\n\ndeste Edital": 1
+    }
   }
 }

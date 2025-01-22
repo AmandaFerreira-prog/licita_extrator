@@ -89,6 +89,17 @@
   "resumo": {
     "num_diarios": 6,
     "num_contratos": 2,
-    "total_gasto": 193150.0
+    "total_gasto": 193150.0,
+    "top_5_empresas": {
+      "NEWTON NOBEL SOBREIRA\nVITA ADVOGADOS ASSOCIADOS": 1,
+      "Sara Cristina Pereira da\nSilva": 1
+    },
+    "top_5_objetos": {
+      "Prestação de serviços jurídicos em forma de\nassessoramento no Fundo Municipal de Saúde": 1,
+      "Comodato de um imóvel localizado na Rua Benedito\nBezerra Falcão, nº 54-Centro-Mataraca/PB-CEP": 1,
+      "Comodato de uma área de 18,18 ha (dezoito hectares e\ndezoito ares) da propriedade denominada Santana de Baixo, localizada\nno município de Mataraca/PB, de propriedade do ora Comodante,\nconforme planta em anexo, que faz parte integrante do presente\ninstrumento": 1,
+      "Contratação de uma empresa especializada para prestação\nde serviços funerários mediante solicitação, junto a Secretaria de Ação\nSocial deste Município": 1,
+      "Aditar o contrato de consultoria técnica especializada de\n\nserviço de engenharia para o Município, conforme prevista na\n\nCláusula Sétima do contrato 00009/2020, que fica aditado por mais 11\n\n(onze) meses a partir da data de vencimento , passando dessa forma, o\n\nprazo contratual total para 33 (trinta e três) meses": 1
+    }
   }
 }

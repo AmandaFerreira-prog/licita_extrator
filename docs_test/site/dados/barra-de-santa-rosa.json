@@ -24,6 +24,12 @@
   "resumo": {
     "num_diarios": 1,
     "num_contratos": 0,
-    "total_gasto": 0
+    "total_gasto": 0,
+    "top_5_empresas": {
+      "JOILTO GONÇALVES DE BRITO": 1
+    },
+    "top_5_objetos": {
+      "PRESTAÇÃO DE\nSERVIÇOS DE ASSESSORIA CONTÁBIL PARA A CÂMARA\nMUNICIPAL DE BARRA DE SANTAS ROSA -": 1
+    }
   }
 }

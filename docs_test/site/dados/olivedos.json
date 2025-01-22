@@ -90,6 +90,15 @@
   "resumo": {
     "num_diarios": 6,
     "num_contratos": 4,
-    "total_gasto": 193500.0
+    "total_gasto": 193500.0,
+    "top_5_empresas": {
+      "ALFREDO\n\nROCHA SOUTO": 1,
+      "GUSTAVO LUZ DA COSTA": 1,
+      "JP MED SERVIÇOS E\n\nCOMERCIO DE MATERIAIS HOSPITALARES LTDA": 1
+    },
+    "top_5_objetos": {
+      "Locação de Veículo tipo (CARRO–PIPA) para Transporte\n\nde Água Potável para o Consumo Emergencial da População\n\n(URBANA), atingida pela estiagem, do Município de Olivedos – PB": 1,
+      "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA AQUISIÇÃO DE KIT COMPLETO PARA DETECÇÃO DE\n\nANTIGENO DO SARS–CONV/SWAB, PARA ATENDER AS\n\nDEMADAS CRECENTES DE CASOS NO MUNICIPIO DE\n\nOLIVEDOS–PB, CONFORME TERMO DE REFERENCIA": 1
+    }
   }
 }

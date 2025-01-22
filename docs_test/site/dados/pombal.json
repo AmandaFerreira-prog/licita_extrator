@@ -197,6 +197,20 @@
   "resumo": {
     "num_diarios": 14,
     "num_contratos": 30,
-    "total_gasto": 1340915.86
+    "total_gasto": 1340915.86,
+    "top_5_empresas": {
+      "KYM QUEIROZ DE LUCENA": 1,
+      "ALVES E ALVES ADVOGADOS ASSOCIADOS": 1,
+      "LAVOISIER PEREIRA PAIXÃO": 1,
+      "OLIVIA SOARES DA SILVA": 1,
+      "CONSTRUTORA BEZERRA LTDA -ME": 1
+    },
+    "top_5_objetos": {
+      "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\nDE SERVIÇOS DE REFORMA EM 02 (DUAS) SALAS DE\nAULA DA CRECHE GENTE INOCENTE, BAIRO DOS\nPEREIROS, POMBAL -PB\n\nRecursos Oriundos do PDDE e Próprios do Município": 1,
+      "Termo Aditivo ao Contrato de Locação de Imóvel\nlocalizado à Rua Cel": 1,
+      "CONTRATO DE PESSOA JURÍDICA ESPECIALIZADA\nNA DEFESA DA PREFEITURA MUNICIPAL DE POMBAL,\nJUNTO AO TRIBUNAL DE CONTAS DO ESTADO,\nMINISTÉRIO PÚBLICO, CONTROLADORIA GERAL DA\nUNIÃO, TRIBUNAL DE CONTAS DA UNIÃO, ASSIM COMO\nACOMPANHAR A PARTE QUE ENVOLVE A\nADMINISTRAÇÃO EM GERAL, TAIS COMO:\nRESOLUÇÕES, LEIS MUNICIPAIS ENTRE OUTROS\nRecursos Próprios do Município de Pombal: todas as Secretarias\nMunicipais\nData de Assinatura: 10/03/2014\nVigência: 10 (dez) Meses, contados a partir da data de assinatura do\nContrato": 1,
+      "Termo Aditivo ao Contrato de Locação de Imóvel\nlocalizado à Rua Projetada, nº 15, centro Pombal –PB, para\nfuncionamento do Núcleo de Apoio Psicológico para atender\ncrianças da rede municipal de ensino": 1,
+      "EXECUÇÃO DE OBRA DE PINTURA DA CRECHE\nMUICIPAL EDEN DAS CRINACINHAS, POMBAL -PB": 1
+    }
   }
 }

@@ -147,6 +147,19 @@
   "resumo": {
     "num_diarios": 12,
     "num_contratos": 4,
-    "total_gasto": 174380.0
+    "total_gasto": 174380.0,
+    "top_5_empresas": {
+      "SANDRA REGINA RIBEIRO\nSIMÕES": 1,
+      "FRANCISCO PAULO C.\nSORRENTINO": 1,
+      "DESTAQUE LOCADORA DE\nVEÍCULOS LTDA": 1,
+      "GBS COMERCIO ATACADISTA DE PRODUTOS\n\nHOSPITALARES E SERVICOS DE MANUTENCAO LTDA": 1
+    },
+    "top_5_objetos": {
+      "SERVIÇOS DE ASSESSORIA E CONSULTORIA\nTÉCNICA ESPECIALIZADA": 1,
+      "AQUISIÇÃO DE FOGOS DE ARTIFÍCIOS": 1,
+      "Aquisição parcelada de materiais de limpeza, de higiene\npessoal, descartáveis e utensílios domésticos diversos": 1,
+      "Locação de um veículo tipo Van": 1,
+      "Aquisição de material sanitizantes para Manutenção do\n\nHospital Municipal": 1
+    }
   }
 }

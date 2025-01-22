@@ -16,7 +16,7 @@ class AtoContratual:
     #Todas as regex prontas para valores,partes contratadas e objeto do contrato
     #regexs criadas a partir de documento teste para 24 diarios diversificados de todos o periodo(2014-2023)
     re_valor = r"(?i)(?:Valor:\s*|- |VALOR TOTAL:\s*|valor global de\s*|,?\s*Valor Global do presente Contrato é de\s*|VALOR DO CONTRATO:\s*|Remuneração:\s*|VALOR TOTAL ESTIMADO:\s*|valor de (?:R\$)?\s*| VALOR GLOBAL:?\s*)R\$\s*([0-9]{1,3}(?:\.[0-9]{3})*(?:,\d{2})?)(?!.+valor global)"
-    re_partes = r"(?is)(?:(?<!A\s)CONTRATANTE\s|(?<!ao\s)CONTRATAD[oa]:?(?!\,| objeto:)\s?(?:\(A\):)?\s?|[–-] \d{2}\.\d{2}\.\d{2} [–-]|PB –(?:CONTRATANTE)?\s|PARTES:\s.*?(?:\d{4}-\d{2} |\d{3}.\d{3}.\d{3}-\d{2} )e\s|E A(?:S)? EMPRESA(?:S)?:\s|e Pessoa Física:\s|R\$\s\d{1,3}\.\d{1,3}\,\d{1,2}(?:\;\s|\se\s))(.*?)(?:\,?\sCNPJ|\,?\.?\sCPF| - R\$|\.?\sCONTRATADA|- (?!.*?LTDA)|\.?\sFunção|– CONTRATO| –|Objeto|\s\.\s|\s- Contrato)"
+    re_partes = r"(?is)(?:(?<!A\s)CONTRATANTE\s|(?<!ao\s)CONTRATAD[oa]:?(?!\,| objeto:)\s?(?:\(A\):)?\s?|[–-] \d{2}\.\d{2}\.\d{2} [–-]|PB –(?:CONTRATANTE)?\s|PARTES:\s.*?(?:\d{4}-\d{2} |\d{3}.\d{3}.\d{3}-\d{2} )e\s|E A(?:S)? EMPRESA(?:S)?:\s|e Pessoa Física:\s|R\$\s\d{1,3}\.\d{1,3}\,\d{1,2}(?:\;\s|\se\s))(.*?)(?:\,?\sCNPJ|\,?\.?\sCPF| - R\$|\.?\sCONTRATADA|- (?!.*?LTDA)|\.?\sFunção|– CONTRATO| –|Objeto|\s\.\s|\s- Contrato|CLÁUSULA|\-?\sEPP|\,?\s?inscrito)"
     re_objeto = r"(?is)(?:objeto:\s*)(.*?)(?:\.?\s*valor|\,?\s*celebrado|\.?\s*FUNDAMENTO LEGAL|PROCEDIMENTO DE CONTRATAÇÃO DIRETA:|\.\s)"
     re_contrato = r"(?i)(EXTRATO D[EO] CONTRATO|TERMO ADITIVO (?:AO|DE) CONTRATO|EXTRATO DE ADITIVO)[\s\S]*?"
 

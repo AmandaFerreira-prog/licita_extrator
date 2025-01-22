@@ -134,7 +134,9 @@
   "resumo": {
     "num_diarios": 193,
     "num_contratos": 115,
-    "total_gasto": 11855787.55
+    "total_gasto": 11855787.55,
+    "top_5_empresas": {},
+    "top_5_objetos": {}
   },
   "ranking_contratos": {
     "1": {
@@ -154,8 +156,8 @@
       "num": 7
     },
     "5": {
-      "nome": "Outros",
-      "num": 52
+      "nome": "Monte Horebe",
+      "num": 7
     }
   },
   "ranking_gastos_totais": {
@@ -176,8 +178,32 @@
       "num": 973100.25
     },
     "5": {
-      "nome": "Outros",
-      "num": 5376048
+      "nome": "Igaracy",
+      "num": 775276.93
     }
+  },
+  "ranking_objetos": {
+    "Fornecer AQUISIÇÃO DE MEDICAMENTOS E\nMATERIAIS DE USO HOSPITALAR, PARA A SECRETARIA\nDE SAÚDE, PARA SEREM APLICADOS NA UNIDADE\nBÁSICA DE SAÚDE DO MUNICÍPIO, no decorrer do exercício de\n2015": 1,
+    "Fornecer EQUIPAMENTOS E MATERIAIS DE USO\nODONTOLÓGICO, PARA A SECRETARIA DE SAÚDE, PARA\nSEREM APLICADOS NOS CONSULTÓRIOS\nODONTOLÓGICOS DO MUNICÍPIO, no decorrer do exercício de\n2015": 1,
+    "Fornecer EQUIPAMENTOS E MATERIAIS DE USO\nODONTOLÓGICO, PARA A SECRETARIA DE SAÚDE, PARA\nSEREM APLICADOS NOS CONSULTÓRIOS\nODONTOLÓGICOS DO MUNICÍPIO,": 1,
+    "Contratação de PESSOA JURÍDICA DA ÁREA DA\n\nSAÚDE PARA PRESTAÇÃO DE SERVIÇOS\n\nCOMPLEMENTARES NO ATENDIMENTO A NÍVEL\n\nAMBULATORIAL EM CONSULTAS, ATENDENDO AS\n\nNECESSIDADES DO MUNICÍPIO DE BOA VISTA-PB,\n\nespecialização em Psiquiatria adulto e infantil": 1,
+    "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO\nDE SERVIÇOS DE REFORMA EM 02 (DUAS) SALAS DE\nAULA DA CRECHE GENTE INOCENTE, BAIRO DOS\nPEREIROS, POMBAL -PB\n\nRecursos Oriundos do PDDE e Próprios do Município": 1,
+    "Termo Aditivo ao Contrato de Locação de Imóvel\nlocalizado à Rua Cel": 1,
+    "CONTRATO DE PESSOA JURÍDICA ESPECIALIZADA\nNA DEFESA DA PREFEITURA MUNICIPAL DE POMBAL,\nJUNTO AO TRIBUNAL DE CONTAS DO ESTADO,\nMINISTÉRIO PÚBLICO, CONTROLADORIA GERAL DA\nUNIÃO, TRIBUNAL DE CONTAS DA UNIÃO, ASSIM COMO\nACOMPANHAR A PARTE QUE ENVOLVE A\nADMINISTRAÇÃO EM GERAL, TAIS COMO:\nRESOLUÇÕES, LEIS MUNICIPAIS ENTRE OUTROS\nRecursos Próprios do Município de Pombal: todas as Secretarias\nMunicipais\nData de Assinatura: 10/03/2014\nVigência: 10 (dez) Meses, contados a partir da data de assinatura do\nContrato": 1,
+    "Termo Aditivo ao Contrato de Locação de Imóvel\nlocalizado à Rua Projetada, nº 15, centro Pombal –PB, para\nfuncionamento do Núcleo de Apoio Psicológico para atender\ncrianças da rede municipal de ensino": 1,
+    "EXECUÇÃO DE OBRA DE PINTURA DA CRECHE\nMUICIPAL EDEN DAS CRINACINHAS, POMBAL -PB": 1,
+    "EXECUÇÃO DE OBRA DE SERVIÇO DE PINTURA\nEM TODA UNIDADE BÁSICA DE SAÚDE DE VARZEA\nCOMPRIDA DOS OLIVEIRA E JANDUHY CARNEIRO,\nPOMBAL PB": 1
+  },
+  "ranking_empresas": {
+    "ANTÔNIO CARLOS SILVA PEREIRA.\nCLÁUSULA(S) ADITIDA(S):\nCLÁUSULA SEGUNDA": 1,
+    "ANSELMO APOLINÁRIO DE TORRES": 1,
+    "BENEDITO ARAÚJO DE SOUZA": 1,
+    "CRM COMERCIAL LTDA": 1,
+    "DENTALMED COMÉRCIO E\nREPRESENTAÇÕES LTDA": 1,
+    "CIRUFARMA COMERCIAL LTDA": 1,
+    "DJALMA DOS SANTOS": 1,
+    "MGCN SERVIÇOS MÉDICOS EIRELI": 1,
+    "KYM QUEIROZ DE LUCENA": 1,
+    "ALVES E ALVES ADVOGADOS ASSOCIADOS": 1
   }
 }

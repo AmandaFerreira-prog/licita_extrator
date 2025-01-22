@@ -76,6 +76,15 @@
   "resumo": {
     "num_diarios": 6,
     "num_contratos": 2,
-    "total_gasto": 356841.35
+    "total_gasto": 356841.35,
+    "top_5_empresas": {
+      "": 1,
+      "CONTRATANTE\nA. COSTA COMÉRCIO ATACADISTA DE PRODUTOS\nFARMACÊUTICOS LTDA": 1,
+      "CONTRATANTE\nLG PRODUTOS HOSPITALARES LTDA": 1
+    },
+    "top_5_objetos": {
+      "Aquisição de Medicamentos para atender as necessidades da Rede\nPública de Saúde do Município de Junco do Seridó-PB": 1,
+      "Aquisição de Material Médico-Hospitalar para atender as\nnecessidades da Rede Pública de Saúde do Município de Junco do\nSeridó-PB": 1
+    }
   }
 }

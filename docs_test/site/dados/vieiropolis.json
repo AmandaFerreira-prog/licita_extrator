@@ -24,6 +24,12 @@
   "resumo": {
     "num_diarios": 1,
     "num_contratos": 2,
-    "total_gasto": 74424.0
+    "total_gasto": 74424.0,
+    "top_5_empresas": {
+      "SUA CASA MATERIAIS DE CONSTRUCAO\n\nLTDA ME": 1
+    },
+    "top_5_objetos": {
+      "CONTRATAÇÃO DIRETA PARA AQUISIÇÃO DE\n\nTELHAS DESTINADOS A CONSTRUÇÃO DO PAÇO\n\nMUNICIPAL DE VIEIRÓPOLIS DO": 1
+    }
   }
 }

@@ -119,42 +119,59 @@ for path in glob.glob("./test_data/*-atos.json"):
             }
 
 # Função para calcular o Top 10 de objetos e empresas por ano
-def calcular_top10(arg, tipo="objeto"):
+def calcular_top10(tipo):
     # Utiliza Counter para contar as ocorrências
     todos = []
     for id_municipio, dado in inicial.items():
-        if id_municipio == 'geral': continue
+        if id_municipio == "geral": 
+            continue
         for ano, detalhe in dado["detalhe"].items():
             for mes, dados_mes in detalhe.items():
-                if mes == "resumo": continue
-                if dados_mes["num_contratos"]!=0:
-                    for empresa in dados_mes["top_3_empresas"]:
-                        todos.extend(empresa)
-                    for objeto in dados_mes["top_3_objetos"]:
-                        todos.extend(objeto)
-
-    top10 = dict(Counter(todos).most_common(10))
-    return top10
+                if mes == "resumo": 
+                    continue
+                if tipo == "objetos":
+                    todos.extend(dados_mes.get("top_3_objetos", []))
+                elif tipo == "empresas":
+                    todos.extend(dados_mes.get("top_3_empresas", []))
+    # Retorna os 10 mais comuns
+    return dict(Counter(todos).most_common(10))
 
 # Atualizando ranking de objetos e empresas no dicionário geral
-geral["ranking_objetos"] = calcular_top10(arg="num", tipo="objeto")
-geral["ranking_empresas"] = calcular_top10(arg="num", tipo="empresa")
+geral["ranking_objetos"] = calcular_top10(tipo="objetos")
+geral["ranking_empresas"] = calcular_top10(tipo="empresas")
 
 # Atualizando seção de resumo
 for id_municipio, dado in inicial.items():
     num_diarios = 0
     num_contratos = 0
     total_gasto = 0
+
+    todas_empresas = []
+    todos_objetos = []
+
     for ano, detalhe in dado["detalhe"].items():
         resumo = detalhe.get("resumo", {})
         num_diarios += resumo.get("num_diarios", 0)
         total_gasto += resumo.get("total_gasto", 0)
         num_contratos += resumo.get("num_contratos", 0)
+    
+    # Coletando dados para ranking de empresas e objetos
+        for mes, dados_mes in detalhe.items():
+            if mes == "resumo":
+                continue
+            todas_empresas.extend(dados_mes.get("top_3_empresas", []))
+            todos_objetos.extend(dados_mes.get("top_3_objetos", []))
+
+    # Calculando o Top 5 de empresas e objetos
+    top_5_empresas = dict(Counter(todas_empresas).most_common(5))
+    top_5_objetos = dict(Counter(todos_objetos).most_common(5))
 
     inicial[id_municipio]["resumo"] = {
         "num_diarios": num_diarios,
         "num_contratos": num_contratos,
         "total_gasto": arredondar_valor(total_gasto),
+        "top_5_empresas": top_5_empresas,
+        "top_5_objetos": top_5_objetos,
     }
 
 # Analisando municípios que mais contrataram e gastaram
@@ -163,25 +180,22 @@ def top5(arg):
     df = df[df["id"] != 'geral']
     df = df.sort_values(by=['resumo'], ascending=False,
                         key=lambda x: x.str.get(arg))
-    top_4 = df.head(4)
+    top_5 = df.head(5)
     ranking = {}
     municipios = []
-    for index, (municipio, row) in enumerate(top_4.iterrows()):
-        ranking[index+1] = {
+    for index, (municipio, row) in enumerate(top_5.iterrows()):
+        ranking[index + 1] = {
             "nome": row["nome"],
-            "num": row['resumo'][arg]
+            "num": row["resumo"][arg]
         }
         municipios.append(municipio)
-    outros = df[4:]['resumo'].apply(lambda x: x[arg]).sum()
-    ranking[5] = {
-        "nome": "Outros",
-        "num": int(outros)
-    }
 
     return ranking
 
 inicial['geral']['ranking_contratos'] = top5("num_contratos")
 inicial['geral']['ranking_gastos_totais'] = top5("total_gasto")
+inicial['geral']['ranking_objetos'] = geral["ranking_objetos"]
+inicial['geral']['ranking_empresas'] = geral["ranking_empresas"]
 
 # Salvando dados para renderização da página inicial.
 for id_municipio, dado in inicial.items():

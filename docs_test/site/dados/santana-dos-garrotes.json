@@ -27,6 +27,15 @@
   "resumo": {
     "num_diarios": 1,
     "num_contratos": 1,
-    "total_gasto": 299567.75
+    "total_gasto": 299567.75,
+    "top_5_empresas": {
+      "FRANCISCO GUEDES DA SILVA MOSAICO\n\n– AJF ORNAMENTAÇÃO, DECORAÇÃO E EDIFICAÇÃO": 1,
+      "Sítio Aroeira de Cima, Sítio Aroeira de Baixo, Sítio\n\nCatingueira, Sítio Limoeira, Sítio Caiçara, Sítio Barrinhos, Sítio\n\nPalestina e Sítio Pitombeira de dentro; nos termos do Art. 24, inciso\n\nIV da Lei 8.666 de 21/06/93, com suas alterações posteriores,\n\nassegurado pelo Programa de Recursos Hídricos/CEF": 1,
+      "CONSTRUTORA PERFURAÇÃO EIRELI": 1
+    },
+    "top_5_objetos": {
+      "Contratação de serviços de ornamentações para praça\n\npública no município de Santana dos Garrotes/PB, que obedecerá às\n\n\n\n\n\n\n                                                                                                                                                                                                                                                              www.diariomunicipal.com.br/famup                                                                                 48\n\n\n\ndisposições do art": 1,
+      "Prorrogação de Prazo para Execução dos serviços de\n\nImplantação de oito Sistemas de Abastecimento de Água nas\n\nseguintes comunidades rurais do município de Santana dos\n\nGarrotes/PB – Sítio Aroeira de Cima, Sítio Aroeira de Baixo, Sítio\n\nCatingueira, Sítio Limoeira, Sítio Caiçara, Sítio Barrinhos, Sítio\n\nPalestina e Sítio Pitombeira de dentro; nos termos do Art": 1
+    }
   }
 }

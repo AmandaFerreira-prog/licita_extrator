@@ -24,6 +24,12 @@
   "resumo": {
     "num_diarios": 1,
     "num_contratos": 0,
-    "total_gasto": 0
+    "total_gasto": 0,
+    "top_5_empresas": {
+      "A EMPRESA\nRAILSON DINIZ VIEIRA/RAILSON PRODUÇÕES, inscrito no": 1
+    },
+    "top_5_objetos": {
+      "Apresentação de Um Show Artístico da Banda Musical\nRoberto Vaneirão, no dia 29 de dezembro de 2019, em praça pública,\ndurante as festividades de Emancipação Política do Município de\nCacimba de Areia - PB": 1
+    }
   }
 }

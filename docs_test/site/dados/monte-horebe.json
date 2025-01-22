@@ -103,6 +103,20 @@
   "resumo": {
     "num_diarios": 6,
     "num_contratos": 7,
-    "total_gasto": 1510255.0
+    "total_gasto": 1510255.0,
+    "top_5_empresas": {
+      "D & S EMPREENDIMENTOS E\nSERVIÇOS LTDA-ME": 1,
+      "PAULA LAÍS DE OLIVEIRA\nSANTANA": 1,
+      "STHEPSON MAIERY ALVES DE\nLIRA-ME": 1,
+      "J.M.S CONSULTORIA\nLTDA": 1,
+      "LEONARDO DE LIMA\nCAVALCANTI 08581257496": 1
+    },
+    "top_5_objetos": {
+      "Contratação de Profissionais para os serviços de\ncontabilidade, envolvendo estudos técnicos, preparação de orçamentos\npúblicos, avaliações contábeis, financeiras, fiscais tributárias,\nelaboração de balancetes, balanços, prestações de contas e pareceres\ntécnicos contábeis": 1,
+      "Contratação de profissional para prestar serviços a Câmara\nMunicipal de Monte Horebe, na assessoria administrativa com\nacompanhamento de Ações Judiciais em primeiro grau na Comarca de\nBonito de Santa Fé – PB": 1,
+      "Contratação de profissional para prestar serviços na\nassessoria técnica na informação da GFIP, IRRF da Câmara\nMunicipal de Monte Horebe – PB": 1,
+      "PRESTAÇÃO DE SERVIÇOS NA REALIZAÇÃO DE\nELABORAÇÃO DE PLANOS DE AÇÃO, PLANO PLURIANUAL\nE PLANO DECENAL; ELABORAÇÃO DOS DEMONSTRATIVOS\n\n\n\n\n\n\nwww.diariomunicipal.com.br/famup                                                                             10\n\nANALÍTICOS E SINTÉTICOS FÍSICOS FINANCEIROS PARA\nPRESTAÇÕES DE CONTAS NO ÂMBITO DE AVERIGUAÇÃO\nINTERNO, PARA O TCE-TRIBUNAL DE CONTAS ESTADUAL E\nPARA O TCU-TRIBUNAL DE CONTAS DA UNIÃO;\nPRESTAÇÃO DE SERVIÇOS NA ELABORAÇÃO DE\nLOGÍSTICA ADMINISTRATIVA E DE GESTAO, TANTO\nQUANTO DESENVOLVIMENTO E ALIMENTAÇÃO DE\nSOFTWARE PARA ACOMPANHAMENTO DOS PROGRAMAS E\nSERVIÇOS": 1,
+      "SERVIÇO DE INSTALAÇÃO, DESINSTALAÇÃO,\nREALOCAÇÃO E SUPORTE EM APARELHOS DE AR\nCONDICIONADO TIPO SPLIT E TIPO JANELA DE DIVERSAS\nPOTÊNCIAS, PARA ATENDER A DEMANDA DAS DIVERSAS\nSECRETARIAS DO MUNICÍPIO DE MONTE HOREBE-PB": 1
+    }
   }
 }

@@ -46,6 +46,18 @@
   "resumo": {
     "num_diarios": 2,
     "num_contratos": 0,
-    "total_gasto": 0
+    "total_gasto": 0,
+    "top_5_empresas": {
+      "A EMPRESA AUDECY\nBELARMINO DE OLIVEIRA ME": 1,
+      "MARIA ELENA DE LIMA\nRODRIGUES 22543554491, CNP: 14.406.225/0001-57.": 1,
+      "A EMPRESA JOÃO CARLOS\nBEZERRA DA SILVA 08391630455": 1,
+      "A EMPRESA SOM MACIEL\nEVENTOS E PRODUÇÕES LTDA": 1
+    },
+    "top_5_objetos": {
+      "Aquisição Parcelada de Hortifrutis para o\ndesenvolvimento das ações, atividades e programas de todas as\nSecretarias Municipais da Prefeitura de Manaíra – PB, conforme\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº": 1,
+      "Aquisição de Gêneros Alimentícios para o Centro de\nSaúde e para o desenvolvimento das Ações e Atividades das\nSecretarias da Prefeitura do Município de Manaíra – PB, conforme\nproposta de preço, tipo menor preço por item, julgada vencedora pelo\nPregoeiro, no processo Pregão Presencial Nº": 1,
+      "Aquisição de Carne Bovina, Frango e Lingüiça para a\nmanutenção, desenvolvimento, funcionamento e execução das ações,\natividades e programas das Secretarias Municipais da Prefeitura de\nManaíra – PB, conforme proposta de preço, tipo menor preço por\nitem, julgada vencedora pelo Pregoeiro, no processo Pregão\nPresencial Nº": 1,
+      "Apresentação de Um Show Artístico da Banda Musical\nALICE MACIEL, no dia 18 de dezembro de 2019, em praça pública,\ndurante as festividades de emancipação política do Município de\nManaíra - PB": 1
+    }
   }
 }
