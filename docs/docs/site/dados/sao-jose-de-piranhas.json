@@ -1,0 +1,27 @@
+{
+  "id": "sao-jose-de-piranhas",
+  "nome": "São José de Piranhas",
+  "detalhe": {
+    "2024": {
+      "10": {
+        "num_diarios": 2,
+        "num_contratos": 2,
+        "total_gasto": 118000.0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 2,
+        "num_contratos": 2,
+        "total_gasto": 118000.0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 2,
+    "num_contratos": 2,
+    "total_gasto": 118000.0,
+    "top_5_empresas": {},
+    "top_5_objetos": {}
+  }
+}

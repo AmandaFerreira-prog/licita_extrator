@@ -1,0 +1,139 @@
+{
+  "id": "sao-jose-do-bonfim",
+  "nome": "São José do Bonfim",
+  "detalhe": {
+    "2024": {
+      "1": {
+        "num_diarios": 8,
+        "num_contratos": 5,
+        "total_gasto": 58500.0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 130,
+        "num_contratos": 279,
+        "total_gasto": 41843096.10000001
+      },
+      "2": {
+        "num_diarios": 15,
+        "num_contratos": 20,
+        "total_gasto": 11304392.98,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "3": {
+        "num_diarios": 14,
+        "num_contratos": 35,
+        "total_gasto": 8400877.55,
+        "top_3_empresas": [
+          "CICERO COSTA DA SILVA"
+        ],
+        "top_3_objetos": [
+          "Contratação de veículo tipo ônibus (48 lugares) com\n\nmotorista para a Secretaria de Ação Social do Município de São José\n\ndo Bonfim/PB no atendimento a Lei Municipal 655/2021"
+        ]
+      },
+      "4": {
+        "num_diarios": 11,
+        "num_contratos": 36,
+        "total_gasto": 9798226.88,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "5": {
+        "num_diarios": 12,
+        "num_contratos": 55,
+        "total_gasto": 3968091.64,
+        "top_3_empresas": [
+          "- A&L\n\nComercio De Alimentos LTDA",
+          "",
+          "valor total: R$ 332.104,08\n\n\n\nSão José do Bonfim"
+        ],
+        "top_3_objetos": [
+          "Aquisição de Gêneros Alimentícios para as secretarias do\n\nMunicípio de São José do Bonfim/PB e aos Fundos Municipais de\n\nSaúde e Assistência Social do município de São José do Bonfim/PB",
+          "Aquisição de pneus, baterias e câmaras de ar para os\n\nveículos das diversas secretarias e do Fundo Municipal de Assistência\n\nSocial e Saúde do município de São José do Bonfim/PB"
+        ]
+      },
+      "6": {
+        "num_diarios": 10,
+        "num_contratos": 13,
+        "total_gasto": 162146.0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "7": {
+        "num_diarios": 11,
+        "num_contratos": 17,
+        "total_gasto": 1512961.26,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "8": {
+        "num_diarios": 12,
+        "num_contratos": 35,
+        "total_gasto": 4165024.88,
+        "top_3_empresas": [
+          "– AUDAZ SEGURANÇA"
+        ],
+        "top_3_objetos": [
+          "Aquisição e instalação de equipamentos e câmeras de\nsegurança eletrônica para as praças da zona urbana e rural destinadas\n\na atender a demanda do Município de São José do Bonfim/PB; CNPJ\n\nnº 08.882.862/0001-05 e a empresa: – AUDAZ SEGURANÇA, CNPJ\nnº 06.070.309/0001-34,"
+        ]
+      },
+      "9": {
+        "num_diarios": 11,
+        "num_contratos": 30,
+        "total_gasto": 1066243.5,
+        "top_3_empresas": [
+          "-GWC INDUSTRIA,\n\nIMPORTACAO E DISTRIBUICAO DE ELETRONICOS LTDA,",
+          "-JOSIVAN\n\nMELQUIADES NOBREGA",
+          "- MULTFORTE\n\nCOMERCIO E SUPRIMENTOS DE INFORMATICA LTDA"
+        ],
+        "top_3_objetos": [
+          "Sistema de Registro de Preços para Aquisição de\n\nequipamentos de informática em geral, e acessórios para as diversas\n\nsecretarias do município de São José do Bonfim/PB e aos Fundos\n\nMunicipais de Saúde e Assistência Social do município de São José\n\ndo Bonfim/PB"
+        ]
+      },
+      "10": {
+        "num_diarios": 11,
+        "num_contratos": 29,
+        "total_gasto": 1220701.41,
+        "top_3_empresas": [],
+        "top_3_objetos": [
+          "Aquisição de veículo 0km para o Município de São José do\n\nBonfim/PB conforme Proposta nº 12526.644000/1240-01 do\n\nMinistério da Saúde"
+        ]
+      },
+      "11": {
+        "num_diarios": 8,
+        "num_contratos": 1,
+        "total_gasto": 5990.0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "12": {
+        "num_diarios": 7,
+        "num_contratos": 3,
+        "total_gasto": 179940.0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 130,
+    "num_contratos": 279,
+    "total_gasto": 41843096.1,
+    "top_5_empresas": {
+      "CICERO COSTA DA SILVA": 1,
+      "- A&L\n\nComercio De Alimentos LTDA": 1,
+      "": 1,
+      "valor total: R$ 332.104,08\n\n\n\nSão José do Bonfim": 1,
+      "– AUDAZ SEGURANÇA": 1
+    },
+    "top_5_objetos": {
+      "Contratação de veículo tipo ônibus (48 lugares) com\n\nmotorista para a Secretaria de Ação Social do Município de São José\n\ndo Bonfim/PB no atendimento a Lei Municipal 655/2021": 1,
+      "Aquisição de Gêneros Alimentícios para as secretarias do\n\nMunicípio de São José do Bonfim/PB e aos Fundos Municipais de\n\nSaúde e Assistência Social do município de São José do Bonfim/PB": 1,
+      "Aquisição de pneus, baterias e câmaras de ar para os\n\nveículos das diversas secretarias e do Fundo Municipal de Assistência\n\nSocial e Saúde do município de São José do Bonfim/PB": 1,
+      "Aquisição e instalação de equipamentos e câmeras de\nsegurança eletrônica para as praças da zona urbana e rural destinadas\n\na atender a demanda do Município de São José do Bonfim/PB; CNPJ\n\nnº 08.882.862/0001-05 e a empresa: – AUDAZ SEGURANÇA, CNPJ\nnº 06.070.309/0001-34,": 1,
+      "Sistema de Registro de Preços para Aquisição de\n\nequipamentos de informática em geral, e acessórios para as diversas\n\nsecretarias do município de São José do Bonfim/PB e aos Fundos\n\nMunicipais de Saúde e Assistência Social do município de São José\n\ndo Bonfim/PB": 1
+    }
+  }
+}

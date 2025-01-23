@@ -1,0 +1,61 @@
+{
+  "id": "bom-jesus",
+  "nome": "Bom Jesus",
+  "detalhe": {
+    "2024": {
+      "4": {
+        "num_diarios": 1,
+        "num_contratos": 9,
+        "total_gasto": 302450.0,
+        "top_3_empresas": [
+          ".\n\nDATA E ASSINATURA: São José de Princesa",
+          "MARIA DA CONCEIÇÃO NASCIMENTO BRITO",
+          "ASSOCIACAO DOS\n\nPRODUTORES RURAIS DA REGIAO DE BOQUEIRAO DE\n\nCAJAZEIRAS"
+        ],
+        "top_3_objetos": [
+          "AQUISIÇÃO DE MOBILIÁRIOS E EQUIPAMENTOS\n\nDE INFORMÁTICA PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA MUNICIPAL DE AÇÃO SOCIAL DA\n\nPREFEITURA MUNICIPAL DE SÃO JOSÉ DE PRINCESA-PB,\n\nNOS TERMOS DA PORTARIA 886/2023",
+          "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA\n\nAGRICULTURA FAMILIAR OU EMPREENDIMENTO\n\nFAMILIAR RURAL, DESTINADO AO ATENDIMENTO DO\n\nPROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE, COM FULCRO NO §1º DO ART.14 DA LEI N.º 11.947, DE\n\n16/07/2009, RESOLUÇÃO N.º 26 DO CD/FNDE, DE 17/06/2013,\n\nRESOLUÇÃO N.º 04 DO CD/FNDE, DE 02/04/2015, DECRETO Nº\n\n8.473/2015 E DEMAIS ALTERAÇÕES E INSTRUMENTOS\n\nLEGAIS COMPETENTES"
+        ]
+      },
+      "resumo": {
+        "num_diarios": 2,
+        "num_contratos": 15,
+        "total_gasto": 1324062.92
+      },
+      "6": {
+        "num_diarios": 1,
+        "num_contratos": 6,
+        "total_gasto": 1021612.92,
+        "top_3_empresas": [
+          "N E CONSTRUCOES E\n\nSERVICOS EIRELI",
+          "T A FRANCA\n\nSERVICOS",
+          "LEONARDO MARIANO DA SILVA\n\n09730956448"
+        ],
+        "top_3_objetos": [
+          "Contratação de show a ser realizado por NONATO NETO E BANDA\n\nno dia 14 de junho de 2024, no evento XII ARRAIÁ DA\n\nEDUCAÇÃO, no ginásio de esportes do distrito de São José,\n\nmunicípio Bom Jesus (PB)",
+          "Contratação de show a ser realizado por NONATO NETO\n\nE BANDA no dia 14 de junho de 2024, no evento XII ARRAIÁ DA\n\nEDUCAÇÃO, no ginásio de esportes do distrito de São José,\n\nmunicípio Bom Jesus (PB)",
+          "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA A REFORMA DA ESCOLA E.M.E.I.F JOSÉ ROQUE DE\n\nSOUZA NO DISTRITO DE SÃO JOSÉ, MUNICÍPIO DE BOM\n\nJESUS–PB"
+        ]
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 2,
+    "num_contratos": 15,
+    "total_gasto": 1324062.92,
+    "top_5_empresas": {
+      ".\n\nDATA E ASSINATURA: São José de Princesa": 1,
+      "MARIA DA CONCEIÇÃO NASCIMENTO BRITO": 1,
+      "ASSOCIACAO DOS\n\nPRODUTORES RURAIS DA REGIAO DE BOQUEIRAO DE\n\nCAJAZEIRAS": 1,
+      "N E CONSTRUCOES E\n\nSERVICOS EIRELI": 1,
+      "T A FRANCA\n\nSERVICOS": 1
+    },
+    "top_5_objetos": {
+      "AQUISIÇÃO DE MOBILIÁRIOS E EQUIPAMENTOS\n\nDE INFORMÁTICA PARA ATENDER AS NECESSIDADES DA\n\nSECRETARIA MUNICIPAL DE AÇÃO SOCIAL DA\n\nPREFEITURA MUNICIPAL DE SÃO JOSÉ DE PRINCESA-PB,\n\nNOS TERMOS DA PORTARIA 886/2023": 1,
+      "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS DA\n\nAGRICULTURA FAMILIAR OU EMPREENDIMENTO\n\nFAMILIAR RURAL, DESTINADO AO ATENDIMENTO DO\n\nPROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR –\n\nPNAE, COM FULCRO NO §1º DO ART.14 DA LEI N.º 11.947, DE\n\n16/07/2009, RESOLUÇÃO N.º 26 DO CD/FNDE, DE 17/06/2013,\n\nRESOLUÇÃO N.º 04 DO CD/FNDE, DE 02/04/2015, DECRETO Nº\n\n8.473/2015 E DEMAIS ALTERAÇÕES E INSTRUMENTOS\n\nLEGAIS COMPETENTES": 1,
+      "Contratação de show a ser realizado por NONATO NETO E BANDA\n\nno dia 14 de junho de 2024, no evento XII ARRAIÁ DA\n\nEDUCAÇÃO, no ginásio de esportes do distrito de São José,\n\nmunicípio Bom Jesus (PB)": 1,
+      "Contratação de show a ser realizado por NONATO NETO\n\nE BANDA no dia 14 de junho de 2024, no evento XII ARRAIÁ DA\n\nEDUCAÇÃO, no ginásio de esportes do distrito de São José,\n\nmunicípio Bom Jesus (PB)": 1,
+      "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA\n\nPARA A REFORMA DA ESCOLA E.M.E.I.F JOSÉ ROQUE DE\n\nSOUZA NO DISTRITO DE SÃO JOSÉ, MUNICÍPIO DE BOM\n\nJESUS–PB": 1
+    }
+  }
+}

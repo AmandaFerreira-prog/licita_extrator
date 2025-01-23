@@ -4,7 +4,7 @@ import os
 import pandas as pd
 from collections import Counter
 
-os.makedirs("./docs_test/site/dados", exist_ok=True)
+os.makedirs("./docs/site/dados", exist_ok=True)
 
 # Dicionário que guarda dados para renderização da página inicial.
 inicial = {}
@@ -21,7 +21,7 @@ def arredondar_valor(valor):
     return round(valor, 2)
 
 # Para guardar os objetos e empresas para o cálculo do top 3 mensal e top 10 anual
-for path in glob.glob("./test_data/*-atos.json"):
+for path in glob.glob("../data/diarios/*-atos.json"):
     with open(path, encoding="utf-8") as json_file:
         diarios = json.load(json_file)
         for diario in diarios:

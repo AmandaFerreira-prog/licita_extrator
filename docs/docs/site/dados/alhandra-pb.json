@@ -1,0 +1,27 @@
+{
+  "id": "alhandra-pb",
+  "nome": "Alhandra-Pb",
+  "detalhe": {
+    "2024": {
+      "12": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0,
+        "top_3_empresas": [],
+        "top_3_objetos": []
+      },
+      "resumo": {
+        "num_diarios": 1,
+        "num_contratos": 0,
+        "total_gasto": 0
+      }
+    }
+  },
+  "resumo": {
+    "num_diarios": 1,
+    "num_contratos": 0,
+    "total_gasto": 0,
+    "top_5_empresas": {},
+    "top_5_objetos": {}
+  }
+}
