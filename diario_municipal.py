@@ -9,7 +9,7 @@ class Municipio:
     def __init__(self, municipio):
         municipio = municipio.rstrip().replace('\n', '')  # limpeza inicial
         # Alguns nomes de municípios possuem um /PB no final
-        municipio = re.sub("(\/PB.*|GABINETE DO PREFEITO.*|PODER.*|http.*|PORTARIA.*|Extrato.*|ATA DE.*|SECRETARIA.*|Secretaria.*|Fundo.*|SETOR.*|ERRATA.*|- PB.*|GABINETE.*|RATIFICAÇÃO.*)", "", municipio)
+        municipio = re.sub("(PB.*|PREFEITURA MUNICIPAL DE.*|COMISSAO.*|PREGAO.*|SECRETARIA.*|\/PB.*|GABINETE DO PREFEITO.*|PODER.*|http.*|PORTARIA.*|Extrato.*|ATA DE.*|SECRETARIA.*|Secretaria.*|Fundo.*|SETOR.*|ERRATA.*|- PB.*|GABINETE.*|RATIFICAÇÃO.*)", "", municipio)
         self.id = self._computa_id(municipio)
         self.nome = municipio
 
