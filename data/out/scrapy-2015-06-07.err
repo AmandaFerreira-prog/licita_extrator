@@ -1,0 +1,111 @@
+2025-02-08 02:21:42 [scrapy.utils.log] INFO: Scrapy 2.11.0 started (bot: gazette)
+2025-02-08 02:21:42 [scrapy.utils.log] INFO: Versions: lxml 4.9.3.0, libxml2 2.10.3, cssselect 1.2.0, parsel 1.8.1, w3lib 2.1.2, Twisted 22.10.0, Python 3.12.1 (main, Dec 12 2024, 22:30:56) [GCC 9.4.0], pyOpenSSL 23.2.0 (OpenSSL 3.1.3 19 Sep 2023), cryptography 41.0.4, Platform Linux-6.5.0-1025-azure-x86_64-with-glibc2.31
+2025-02-08 02:21:42 [pb_federacao_municipios] INFO: Collecting data from 2015-06-07 to 2015-06-07.
+2025-02-08 02:21:42 [scrapy.addons] INFO: Enabled addons:
+[]
+2025-02-08 02:21:42 [scrapy.utils.log] DEBUG: Using reactor: twisted.internet.epollreactor.EPollReactor
+2025-02-08 02:21:42 [scrapy.extensions.telnet] INFO: Telnet Password: 811d645823152809
+2025-02-08 02:21:43 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats',
+ 'spidermon.contrib.scrapy.extensions.Spidermon',
+ 'gazette.extensions.StatsPersist']
+2025-02-08 02:21:43 [scrapy.crawler] INFO: Overridden settings:
+{'BOT_NAME': 'gazette',
+ 'COMMANDS_MODULE': 'gazette.commands',
+ 'DOWNLOAD_TIMEOUT': 360,
+ 'FILES_STORE_S3_ACL': 'public-read',
+ 'NEWSPIDER_MODULE': 'gazette.spiders',
+ 'REQUEST_FINGERPRINTER_IMPLEMENTATION': '2.7',
+ 'SPIDER_MODULES': ['gazette.spiders'],
+ 'TEMPLATES_DIR': 'templates',
+ 'USER_AGENT': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:108.0) '
+               'Gecko/20100101 Firefox/108.0'}
+2025-02-08 02:21:43 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy_zyte_smartproxy.ZyteSmartProxyMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2025-02-08 02:21:43 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2025-02-08 02:21:43 [scrapy.middleware] INFO: Enabled item pipelines:
+['gazette.pipelines.GazetteDateFilteringPipeline',
+ 'gazette.pipelines.DefaultValuesPipeline',
+ 'gazette.pipelines.QueridoDiarioFilesPipeline',
+ 'spidermon.contrib.scrapy.pipelines.ItemValidationPipeline',
+ 'gazette.pipelines.SQLDatabasePipeline']
+2025-02-08 02:21:43 [scrapy.core.engine] INFO: Spider opened
+2025-02-08 02:21:43 [gazette.database.models] INFO: Populating 'querido_diario_spider' table - Please wait!
+2025-02-08 02:21:43 [gazette.database.models] INFO: Populating 'querido_diario_spider' table - Done!
+2025-02-08 02:21:43 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-02-08 02:21:43 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2025-02-08 02:21:44 [scrapy.downloadermiddlewares.redirect] DEBUG: Redirecting (301) to <GET https://www.diariomunicipal.com.br/famup/> from <GET https://www.diariomunicipal.com.br/famup>
+2025-02-08 02:21:45 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.diariomunicipal.com.br/famup/> (referer: None)
+2025-02-08 02:21:46 [scrapy.core.engine] DEBUG: Crawled (200) <POST https://www.diariomunicipal.com.br/famup/materia/calendario/extra> (referer: https://www.diariomunicipal.com.br/famup/)
+2025-02-08 02:21:46 [pb_federacao_municipios] DEBUG: Extra Gazette not available for 2015-06-07
+2025-02-08 02:21:46 [scrapy.core.engine] DEBUG: Crawled (200) <POST https://www.diariomunicipal.com.br/famup/materia/calendario> (referer: https://www.diariomunicipal.com.br/famup/)
+2025-02-08 02:21:46 [pb_federacao_municipios] DEBUG: Regular Gazette not available for 2015-06-07
+2025-02-08 02:21:46 [scrapy.core.engine] INFO: Closing spider (finished)
+2025-02-08 02:21:46 [pb_federacao_municipios] INFO: [Spidermon] ------------------------------ MONITORS ------------------------------
+2025-02-08 02:21:46 [pb_federacao_municipios] INFO: [Spidermon] Comparison Between Executions/Days without gazettes... OK
+2025-02-08 02:21:46 [pb_federacao_municipios] INFO: [Spidermon] Requests/Items Ratio/Ratio of requests over items scraped count... OK
+2025-02-08 02:21:46 [pb_federacao_municipios] INFO: [Spidermon] Error Count Monitor/test_stat_monitor... SKIPPED (Unable to find 'log_count/ERROR' in job stats.)
+2025-02-08 02:21:46 [pb_federacao_municipios] INFO: [Spidermon] Finish Reason Monitor/Should have the expected finished reason(s)... OK
+2025-02-08 02:21:46 [pb_federacao_municipios] INFO: [Spidermon] Item Validation Monitor/test_stat_monitor... SKIPPED (Unable to find 'spidermon/validation/fields/errors' in job stats.)
+2025-02-08 02:21:46 [pb_federacao_municipios] INFO: [Spidermon] ----------------------------------------------------------------------
+2025-02-08 02:21:46 [pb_federacao_municipios] INFO: [Spidermon] 5 monitors in 0.005s
+2025-02-08 02:21:46 [pb_federacao_municipios] INFO: [Spidermon] OK (skipped=2)
+2025-02-08 02:21:46 [pb_federacao_municipios] INFO: [Spidermon] -------------------------- FINISHED ACTIONS --------------------------
+2025-02-08 02:21:46 [pb_federacao_municipios] INFO: [Spidermon] ----------------------------------------------------------------------
+2025-02-08 02:21:46 [pb_federacao_municipios] INFO: [Spidermon] 0 actions in 0.000s
+2025-02-08 02:21:46 [pb_federacao_municipios] INFO: [Spidermon] OK
+2025-02-08 02:21:46 [pb_federacao_municipios] INFO: [Spidermon] --------------------------- PASSED ACTIONS ---------------------------
+2025-02-08 02:21:46 [pb_federacao_municipios] INFO: [Spidermon] ----------------------------------------------------------------------
+2025-02-08 02:21:46 [pb_federacao_municipios] INFO: [Spidermon] 0 actions in 0.000s
+2025-02-08 02:21:46 [pb_federacao_municipios] INFO: [Spidermon] OK
+2025-02-08 02:21:46 [pb_federacao_municipios] INFO: [Spidermon] --------------------------- FAILED ACTIONS ---------------------------
+2025-02-08 02:21:46 [pb_federacao_municipios] INFO: [Spidermon] ----------------------------------------------------------------------
+2025-02-08 02:21:46 [pb_federacao_municipios] INFO: [Spidermon] 1 action in 0.000s
+2025-02-08 02:21:46 [pb_federacao_municipios] INFO: [Spidermon] OK (skipped=1)
+2025-02-08 02:21:46 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 1843,
+ 'downloader/request_count': 4,
+ 'downloader/request_method_count/GET': 2,
+ 'downloader/request_method_count/POST': 2,
+ 'downloader/response_bytes': 48056,
+ 'downloader/response_count': 4,
+ 'downloader/response_status_count/200': 3,
+ 'downloader/response_status_count/301': 1,
+ 'elapsed_time_seconds': 3.10935,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2025, 2, 8, 2, 21, 46, 539355, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 49011,
+ 'httpcompression/response_count': 3,
+ 'log_count/DEBUG': 7,
+ 'log_count/INFO': 33,
+ 'memusage/max': 125440000,
+ 'memusage/startup': 125440000,
+ 'request_depth_max': 1,
+ 'response_received_count': 3,
+ 'scheduler/dequeued': 4,
+ 'scheduler/dequeued/memory': 4,
+ 'scheduler/enqueued': 4,
+ 'scheduler/enqueued/memory': 4,
+ 'spidermon/validation/validators': 1,
+ 'spidermon/validation/validators/item/jsonschema': True,
+ 'start_time': datetime.datetime(2025, 2, 8, 2, 21, 43, 430005, tzinfo=datetime.timezone.utc)}
+2025-02-08 02:21:46 [scrapy.core.engine] INFO: Spider closed (finished)
