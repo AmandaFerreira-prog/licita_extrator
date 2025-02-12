@@ -4,7 +4,7 @@ set -x  # Ativa o modo debug para exibir os comandos sendo executados
 set -e  # Faz o script parar em caso de erro
 
 ROOT_DIR=${PWD}  # Define o diretório raiz como o diretório atual
-DATA_DIR=${ROOT_DIR}/test_data  # Muda o diretório de dados para test_data
+DATA_DIR=${ROOT_DIR}/area_teste/diarios  # Muda o diretório de dados para test_data
 
 cd ${DATA_DIR}  # Navega para a pasta test_data
 

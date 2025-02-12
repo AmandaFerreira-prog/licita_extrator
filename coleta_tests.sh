@@ -5,13 +5,13 @@ set -e  # exit on error
 
 START_DATE=${START_DATE:="2014-01-01"}
 END_DATE=${END_DATE:="2024-12-31"}
-ROOT_DIR="/workspaces/extrator_licita"
-DATA_DIR="/workspaces/extrator_licita/data"
-OUT_DIR="/workspaces/extrator_licita/data/out"
-REPO_DIR="/workspaces/extrator_licita/data/qd"
+ROOT_DIR=${PWD}
+DATA_DIR=${ROOT_DIR}/area_teste
+OUT_DIR=${DATA_DIR}/out
+REPO_DIR=${DATA_DIR}/qd
 DATA_COLLECTION_DIR=${REPO_DIR}/data_collection
 QD_DOWNLOAD_DIR=${REPO_DIR}/data_collection/data/2500000
-DOWNLOAD_DIR="/workspaces/extrator_licita/area_test"
+DOWNLOAD_DIR=${DATA_DIR}/diarios
 
 mkdir -p ${DATA_DIR}
 cd ${DATA_DIR}
